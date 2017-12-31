@@ -1,0 +1,866 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<meta charset="utf-8">
+<title>实验报告</title>
+
+
+<style type="text/css">
+body {
+  font-family: Helvetica, arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: white;
+  padding: 30px; }
+
+body > *:first-child {
+  margin-top: 0 !important; }
+body > *:last-child {
+  margin-bottom: 0 !important; }
+
+a {
+  color: #4183C4; }
+a.absent {
+  color: #cc0000; }
+a.anchor {
+  display: block;
+  padding-left: 30px;
+  margin-left: -30px;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0; }
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+  cursor: text;
+  position: relative; }
+
+h1:hover a.anchor, h2:hover a.anchor, h3:hover a.anchor, h4:hover a.anchor, h5:hover a.anchor, h6:hover a.anchor {
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA09pVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNiAoMTMuMCAyMDEyMDMwNS5tLjQxNSAyMDEyLzAzLzA1OjIxOjAwOjAwKSAgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OUM2NjlDQjI4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OUM2NjlDQjM4ODBGMTFFMTg1ODlEODNERDJBRjUwQTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo5QzY2OUNCMDg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo5QzY2OUNCMTg4MEYxMUUxODU4OUQ4M0REMkFGNTBBNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PsQhXeAAAABfSURBVHjaYvz//z8DJYCRUgMYQAbAMBQIAvEqkBQWXI6sHqwHiwG70TTBxGaiWwjCTGgOUgJiF1J8wMRAIUA34B4Q76HUBelAfJYSA0CuMIEaRP8wGIkGMA54bgQIMACAmkXJi0hKJQAAAABJRU5ErkJggg==) no-repeat 10px center;
+  text-decoration: none; }
+
+h1 tt, h1 code {
+  font-size: inherit; }
+
+h2 tt, h2 code {
+  font-size: inherit; }
+
+h3 tt, h3 code {
+  font-size: inherit; }
+
+h4 tt, h4 code {
+  font-size: inherit; }
+
+h5 tt, h5 code {
+  font-size: inherit; }
+
+h6 tt, h6 code {
+  font-size: inherit; }
+
+h1 {
+  font-size: 28px;
+  color: black; }
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #cccccc;
+  color: black; }
+
+h3 {
+  font-size: 18px; }
+
+h4 {
+  font-size: 16px; }
+
+h5 {
+  font-size: 14px; }
+
+h6 {
+  color: #777777;
+  font-size: 14px; }
+
+p, blockquote, ul, ol, dl, li, table, pre {
+  margin: 15px 0; }
+
+hr {
+  background: transparent url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAECAYAAACtBE5DAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENTNSBNYWNpbnRvc2giIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6OENDRjNBN0E2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6OENDRjNBN0I2NTZBMTFFMEI3QjRBODM4NzJDMjlGNDgiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo4Q0NGM0E3ODY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo4Q0NGM0E3OTY1NkExMUUwQjdCNEE4Mzg3MkMyOUY0OCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PqqezsUAAAAfSURBVHjaYmRABcYwBiM2QSA4y4hNEKYDQxAEAAIMAHNGAzhkPOlYAAAAAElFTkSuQmCC) repeat-x 0 0;
+  border: 0 none;
+  color: #cccccc;
+  height: 4px;
+  padding: 0;
+}
+
+body > h2:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+body > h1:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+  body > h1:first-child + h2 {
+    margin-top: 0;
+    padding-top: 0; }
+body > h3:first-child, body > h4:first-child, body > h5:first-child, body > h6:first-child {
+  margin-top: 0;
+  padding-top: 0; }
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0; }
+
+h1 p, h2 p, h3 p, h4 p, h5 p, h6 p {
+  margin-top: 0; }
+
+li p.first {
+  display: inline-block; }
+li {
+  margin: 0; }
+ul, ol {
+  padding-left: 30px; }
+
+ul :first-child, ol :first-child {
+  margin-top: 0; }
+
+dl {
+  padding: 0; }
+  dl dt {
+    font-size: 14px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0;
+    margin: 15px 0 5px; }
+    dl dt:first-child {
+      padding: 0; }
+    dl dt > :first-child {
+      margin-top: 0; }
+    dl dt > :last-child {
+      margin-bottom: 0; }
+  dl dd {
+    margin: 0 0 15px;
+    padding: 0 15px; }
+    dl dd > :first-child {
+      margin-top: 0; }
+    dl dd > :last-child {
+      margin-bottom: 0; }
+
+blockquote {
+  border-left: 4px solid #dddddd;
+  padding: 0 15px;
+  color: #777777; }
+  blockquote > :first-child {
+    margin-top: 0; }
+  blockquote > :last-child {
+    margin-bottom: 0; }
+
+table {
+  padding: 0;border-collapse: collapse; }
+  table tr {
+    border-top: 1px solid #cccccc;
+    background-color: white;
+    margin: 0;
+    padding: 0; }
+    table tr:nth-child(2n) {
+      background-color: #f8f8f8; }
+    table tr th {
+      font-weight: bold;
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr td {
+      border: 1px solid #cccccc;
+      margin: 0;
+      padding: 6px 13px; }
+    table tr th :first-child, table tr td :first-child {
+      margin-top: 0; }
+    table tr th :last-child, table tr td :last-child {
+      margin-bottom: 0; }
+
+img {
+  max-width: 100%; }
+
+span.frame {
+  display: block;
+  overflow: hidden; }
+  span.frame > span {
+    border: 1px solid #dddddd;
+    display: block;
+    float: left;
+    overflow: hidden;
+    margin: 13px 0 0;
+    padding: 7px;
+    width: auto; }
+  span.frame span img {
+    display: block;
+    float: left; }
+  span.frame span span {
+    clear: both;
+    color: #333333;
+    display: block;
+    padding: 5px 0 0; }
+span.align-center {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-center > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: center; }
+  span.align-center span img {
+    margin: 0 auto;
+    text-align: center; }
+span.align-right {
+  display: block;
+  overflow: hidden;
+  clear: both; }
+  span.align-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px 0 0;
+    text-align: right; }
+  span.align-right span img {
+    margin: 0;
+    text-align: right; }
+span.float-left {
+  display: block;
+  margin-right: 13px;
+  overflow: hidden;
+  float: left; }
+  span.float-left span {
+    margin: 13px 0 0; }
+span.float-right {
+  display: block;
+  margin-left: 13px;
+  overflow: hidden;
+  float: right; }
+  span.float-right > span {
+    display: block;
+    overflow: hidden;
+    margin: 13px auto 0;
+    text-align: right; }
+
+code, tt {
+  margin: 0 2px;
+  padding: 0 5px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px; }
+
+pre code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent; }
+
+.highlight pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #cccccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px; }
+  pre code, pre tt {
+    background-color: transparent;
+    border: none; }
+
+sup {
+    font-size: 0.83em;
+    vertical-align: super;
+    line-height: 0;
+}
+* {
+	-webkit-print-color-adjust: exact;
+}
+@media screen and (min-width: 914px) {
+    body {
+        width: 854px;
+        margin:0 auto;
+    }
+}
+@media print {
+	table, pre {
+		page-break-inside: avoid;
+	}
+	pre {
+		word-wrap: break-word;
+	}
+}
+</style>
+
+<style type="text/css">
+/**
+ * prism.js default theme for JavaScript, CSS and HTML
+ * Based on dabblet (http://dabblet.com)
+ * @author Lea Verou
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: black;
+	background: none;
+	text-shadow: 0 1px white;
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
+code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
+	text-shadow: none;
+	background: #b3d4fc;
+}
+
+pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
+code[class*="language-"]::selection, code[class*="language-"] ::selection {
+	text-shadow: none;
+	background: #b3d4fc;
+}
+
+@media print {
+	code[class*="language-"],
+	pre[class*="language-"] {
+		text-shadow: none;
+	}
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #f5f2f0;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
+}
+
+.token.punctuation {
+	color: #999;
+}
+
+.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #905;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #690;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+	color: #a67f59;
+	background: hsla(0, 0%, 100%, .5);
+}
+
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+	color: #07a;
+}
+
+.token.function {
+	color: #DD4A68;
+}
+
+.token.regex,
+.token.important,
+.token.variable {
+	color: #e90;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+</style>
+
+
+</head>
+
+<body>
+
+<h1 id="toc_0">机器作诗</h1>
+
+<ul>
+<li>《计算语言学》课程大作业</li>
+<li>2017210861 黄予 计研174</li>
+</ul>
+
+<h2 id="toc_1">实验内容</h2>
+
+<p>机器自动作诗，用户输入第一句诗，机器输出下一句诗。</p>
+
+<h2 id="toc_2">实验方法</h2>
+
+<h3 id="toc_3">记号</h3>
+
+<ul>
+<li>\(FS\)：第一句诗（First Sentence）</li>
+<li>\(SS\)：下一句诗（Second Sentence）</li>
+<li>\(TSS\)：模型输出的下一句诗</li>
+<li>\(f_i\)：第一句诗中的第\(i\)个字（词）</li>
+<li>\(s_i\)：下一句诗中的第\(i\)个字（词）</li>
+<li>\(L\)：诗句长度</li>
+<li>\(w_1w_2...w_n\)：字（词）序列，即\(n-gram\)</li>
+<li>\(C(w_1w_2...w_n)\)：\(w_1w_2...w_n\)在语料库中出现的频数</li>
+<li>\(N_{n-gram}\)：语料库中\(n-gram\)的总数（未去重）</li>
+<li>\(C_{SS}(s_i)\)：\(s_i\)在语料库第二句诗中出现的频数</li>
+</ul>
+
+<p>注：本实验的实现基于<strong>字</strong></p>
+
+<h3 id="toc_4">1.统计机器翻译模型</h3>
+
+<h4 id="toc_5">基本原理</h4>
+
+<p>从概率论的角度，实验任务可描述为在给定第一句诗\(FS\)时，求条件概率最大的第二句诗\(SS\)，即求</p>
+
+<p>\[\mathop{argmax}_{SS} P(SS|FS)\]</p>
+
+<p>由贝叶斯公式，</p>
+
+<p>\[P(SS|FS) = \frac{P(FS|SS)P(SS)}{P(FS)} \propto P(SS)P(FS|SS)\]</p>
+
+<p>在上式中，由于\(FS\)已经给定，故略去；\(P(SS)\)表示下一句诗的概率，该式称为语言模型；\(P(FS|SS)\)表示给定第二句诗时生成第一句诗的的条件概率，该式称为翻译模型。将语言模型继续分解：</p>
+
+<p>\[P(SS) = P(s_1s_2...s_L) = P(s_1)P(s_2|s_1)P(s_3|s_1s_2)...P(s_n|s_1s_2...s_L)\]</p>
+
+<p>从语言学的角度，句子中的字一般只与其附近的字有关，例如<code>我爱吃红苹果</code>一句，如果把<code>果</code>字拿掉，变成<code>我爱吃红苹_</code>，那么即使我们没有看到<code>我爱吃</code>三个字，而是仅看到<code>红苹</code>，我们也可以推出下一个字应为<code>果</code>。因此，我们假设诗句中的第\(i\)个字只受前\(n-1\)个字约束，即：</p>
+
+<p>\[P(s_i|s_1s_2...s_{i-1}) \approx P(s_i|s_{i-n+1}...s_{i-1})\]</p>
+
+<p>进而，</p>
+
+<p>\[P(SS) = P(s_1s_2...s_L) \approx \prod_{i=1}^{L} P(s_i|s_{i-n+1}...s_{i-1})\]</p>
+
+<p>其中当 \(j &lt; 1\) 时认为 \(s_j\) 为空，例如\(P(s_2|s_{-1}s_{0}s_1)=P(s_2|s_1)\)。上述语言模型即 \(n-gram\) 语言模型，特别地，当\( n = 2 \)时，</p>
+
+<p>\[P(SS) = P(s_1s_2...s_L) \approx \prod_{i=1}^{L} P(s_i|s_{i-1}) = P(s_1)P(s_2|s_1)P(s_3|s_2)...P(s_L|s_{L-1})\]</p>
+
+<p>即诗句第 \(i\) 个字只与第 \(i-1\) 有关，而与前面的字无关，该诗句的生成过程就是一个马尔科夫链。各个“子条件概率”的计算如下：</p>
+
+<p>\[P(s_n|s_1...s_{n-1}) =  \frac{C(s_1...s_n)}{C(s_1...s_{n-1})}\]
+\[P(s_i) = \frac{C(s_i)}{N_{1-gram}}\]</p>
+
+<p>其中，\(C(s_1...s_n)\)指在\(s_1...s_n\)语料库中出现的频数，\(N_{1-gram}\)指语料库中的 \(1-gram\) 总数，即总字数。</p>
+
+<p>同样地，翻译模型\(P(FS|SS)\)可分解为：</p>
+
+<p>\[P(FS|SS) = P(f_1f_2...f_L|s_1s_2...s_L) \approx \prod_{i=1}^{L} P(f_i|s_i)\]
+\[P(f_i|s_i) = \frac{C(match(f_i, s_i))}{C_{SS}(s_i)}\]</p>
+
+<p>其中，\(C_{SS}(s_i)\)指\(s_i\)在语料库的所有第二句诗中出现的频数，\(C(match(f_i, s_i))\)指\(f_i\)与\(s_i\)在语料库诗句对中的匹配次数。</p>
+
+<h4 id="toc_6">Smothing</h4>
+
+<p>在语言模型中，计算 \(P(s_n|s_1...s_{n-1}) = \frac{C(s_1...s_n)}{C(s_1...s_{n-1})}\) 条件概率时，存在分子为0或分母为0的情况，给计算句子概率带来困扰，因此需要引入平滑技术，本实验采用\(adding\ \lambda\)的平滑技术，即：</p>
+
+<p>\[P(s_n|s_1...s_{n-1}) =  \frac{C(s_1...s_n) + \lambda}{C(s_1...s_{n-1}) + V\lambda}\]</p>
+
+<p>其中 \(V\) 为训练集的字形数目。当 \(C(s_1...s_n)\) 为0时，</p>
+
+<p>\[P(s_n|s_1...s_{n-1}) =  \frac{\lambda}{C(s_1...s_{n-1}) + V\lambda}\]</p>
+
+<p>当 \(C(s_1...s_n)\) 与 \(C(s_1...s_{n-1})\) 均为0时，</p>
+
+<p>\[P(s_n|s_1...s_{n-1}) =  \frac{1}{V}\]</p>
+
+<p>翻译模型中的 \(P(f_i|s_i) = \frac{C(match(f_i, s_i))}{C_{SS}(s_i)}\) 条件概率的计算也是同理，区别仅在于二者所使用的 \(V\) 不同，一者使用语言模型训练集的字形数目，另一者使用翻译模型训练集的字形数目。</p>
+
+<h4 id="toc_7">Beam Search</h4>
+
+<p>设\(beam\ width = k\)，在确定\(s_i\)时，模型已经产生了生成概率前k大的 \(s_1...s_{i-1}\)字序列，其概率记为 \(Gen(s_1...s_{i-1})\)，现需确定k个\(s_i\)，使得\(Gen(s_1...s_i)\)的为前k大，递推公式为：</p>
+
+<p>\[Gen(s_1...s_i) = Gen(s_1...s_{i-1})P(s_i|s_{i-n+1}...s_{i-1})P(f_i|s_i)\]</p>
+
+<p>最后，模型可输出前k个生成概率最大的诗句。</p>
+
+<h4 id="toc_8">平衡语言模型与翻译模型</h4>
+
+<p>由于我们的任务为作诗，诗句更注重对仗，诗句的流畅度次之，因此引入参数 \(\alpha\) ，</p>
+
+<p>\[log P(SS|FS)\]
+\[ = \alpha log P(SS) + (1-\alpha) log P(FS|SS)\]
+\[ = \Sigma_{i=1}^{L} \alpha P(s_i|s_{i-n+1}...s_{i-1}) + \Sigma_{i=1}^{L} (1-\alpha) P(f_i|s_i)\]</p>
+
+<h3 id="toc_9">2.神经网络seq2seq模型</h3>
+
+<h4 id="toc_10">基本原理</h4>
+
+<p>采用目前流行的encoder-decoder框架，如下图所示：</p>
+
+<p><img src="seq2seq.jpg" alt="seq2seq.jpg"></p>
+
+<p>将上一句诗 \(FS\) 的字向量作为encoder的输入，encoder的最后一个状态作为encoder的输出向量，该向量可看做 \(FS\) 的表示；decoder负责将该向量解码为下一句诗 \(SS\)。<br>
+在训练时，decoder的输入为加了前缀<code>&lt;s&gt;</code>的\(SS\)；在测试时，decoder的第i步输入为第i-1步输出字的embedding。</p>
+
+<h3 id="toc_11">3.神经网络encoder-dense模型</h3>
+
+<h4 id="toc_12">基本原理</h4>
+
+<p>由于作诗任务的输出序列与输出序列长度相同，因此可以取消encoder-decoder框架中的decoder模块，encoder编码完之后可直接接入全连接层预测所对应的词，encoder采用双向RNN，具体如下图所示：
+<img src="seq2dense.jpg" alt="seq2dense.jpg"></p>
+
+<h2 id="toc_13">实验结果</h2>
+
+<h3 id="toc_14">数据</h3>
+
+<p>网络学堂提供的《全唐诗》，包括41880首诗，213373对诗句对（逗号连接的上下句，字数相等），字总数2495760，字形数7471。</p>
+
+<h4 id="toc_15">预处理</h4>
+
+<ul>
+<li>提取诗句对：提取逗号连接的且字数相等的两句诗作为诗句对<code>(FS, SS)</code>，如绝句的第一句和第二句为一对，第三句和第四句为一对。</li>
+<li>切分诗句对集合：将数据按9:1的比例切分为training set和test set；再将training set的\(\frac{1}{10}\)作为validation set，\(\frac{9}{10}\)作为真正的training set。</li>
+<li>语言模型训练集：将training set和《全唐诗》中剩余的句子（例如，上下句字数不等）作为语言模型的训练语料。</li>
+</ul>
+
+<p>诗句对集合，截取部分如下：</p>
+
+<div><pre><code class="language-none">朝朝奉御临池上 不羡青松拜大夫
+幽人听达曙 相和藓床吟
+佳人忆山水 置酒在高台
+降集翻翔凤 追攀绝众狙
+圣主此时思共理 又应何处救苍生
+化城若化出 金榜天宫开
+樱桃未绽梅花老 折得柔条百尺长</code></pre></div>
+
+<p>语言模型训练集，截取部分如下：</p>
+
+<div><pre><code class="language-none">珠宫凤合迎萧史
+案头丹篆小符灵
+燕语惊愁态
+轻风渡水香
+争那牵情思
+离愁暗断魂
+燕拂回塘满
+络纬床头和苦吟
+将相多收蓟北功
+丙寅岁
+休牛马</code></pre></div>
+
+<h3 id="toc_16">参数</h3>
+
+<h4 id="toc_17">统计机器翻译模型</h4>
+
+<ul>
+<li>语言模型gram数目：\(n=3\)</li>
+<li>\(adding\ \lambda\)平滑：\(\lambda = 0.1\)</li>
+<li>语言模型权重：\(\alpha = 0.3\)</li>
+<li>beam width：\(k = 10\)</li>
+</ul>
+
+<h4 id="toc_18">神经网络seq2seq模型</h4>
+
+<ul>
+<li>RNN Cell：LSTM</li>
+<li>encoder层数：2</li>
+<li>decoder层数：2</li>
+<li>hidden units of LSTM：128</li>
+<li>hidden units of dense：[6000]</li>
+<li>embedding size：128</li>
+<li>batch size：128</li>
+<li>vocabulary size：6000</li>
+<li>keep rate of LSTM：0.5</li>
+<li>optimizer：SGD</li>
+<li>learning rate：0.5 -&gt; 0.05</li>
+<li>gradient clip：5</li>
+<li>infer search：greedy</li>
+<li>reverse FS：False</li>
+</ul>
+
+<h4 id="toc_19">神经网络encoder-dense模型</h4>
+
+<ul>
+<li>RNN Cell：LSTM</li>
+<li>forward RNN层数：1</li>
+<li>backward RNN层数：1</li>
+<li>hidden units of LSTM：512</li>
+<li>hidden units of dense：[512, 6000]</li>
+<li>embedding size：512</li>
+<li>batch size：128</li>
+<li>vocabulary size：6000</li>
+<li>keep rate of LSTM：0.5</li>
+<li>optimizer：SGD</li>
+<li>learning rate：0.5 -&gt; 0.05</li>
+<li>gradient clip：5</li>
+</ul>
+
+<h3 id="toc_20">工具</h3>
+
+<ul>
+<li>python3</li>
+<li>tensorflow</li>
+<li>nltk</li>
+</ul>
+
+<h3 id="toc_21">评估</h3>
+
+<ul>
+<li>BLEU</li>
+<li>GLEU</li>
+</ul>
+
+<h3 id="toc_22">结果与分析</h3>
+
+<h4 id="toc_23">1.综合</h4>
+
+<table>
+<thead>
+<tr>
+<th></th>
+<th>BLEU</th>
+<th>GLEU</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>统计机器翻译模型</td>
+<td>0.0206</td>
+<td>0.0349</td>
+</tr>
+<tr>
+<td>神经网络seq2seq模型</td>
+<td>0.0034</td>
+<td>0.0074</td>
+</tr>
+<tr>
+<td>神经网络encoder-dense模型</td>
+<td><strong>0.0567</strong></td>
+<td><strong>0.0620</strong></td>
+</tr>
+</tbody>
+</table>
+
+<ul>
+<li>encoder-dense的效果较好</li>
+<li>seq2seq模型训练失败（真的难调）</li>
+</ul>
+
+<h4 id="toc_24">2.统计机器翻译模型</h4>
+
+<p>测试集的输出结果截取如下，格式为<code>第一句诗(FS) 模型根据第一句诗的输出(TSS) |Ref:第一句诗原来所对的诗(SS)</code>：</p>
+
+<div><pre><code class="language-none">枝逐清风动 叶随白露生 |Ref:香因白雪知
+远山应见繁华事 寒水不闻喧彩情 |Ref:不语青青对水流
+远岸牧童吹短笛 孤舟移女湿长砧 |Ref:蓼花深处信牛行
+鱼书曾替代 鸟语亦藏年 |Ref:香火有因缘
+相思无路莫相思 相忆有门须相忆 |Ref:风里花开只片时
+似见楼上人 如闻雨中客 |Ref:玲珑窗户开
+
+新秋日后晒书天 旧春风前洗酒地 |Ref:白日当松影却圆
+三展蜀笺皆郢曲 九成秦笔尽湘弦 |Ref:我心珍重甚琼瑶
+此日令人肠欲断 何时见我眼初开 |Ref:不堪将入笛中吹
+雪貌潜凋雪发生 云心暗损冰颜死 |Ref:故园魂断弟兼兄
+荆吴相接水为乡 吴越共连山作客 |Ref:君去春江正淼茫
+如裁一条素 似剪千叶红 |Ref:白日悬秋天
+庭前有蝶争烟蕊 池上无人共水香 |Ref:帘外无人报水筒
+似见楼上人 如闻雨中客 |Ref:玲珑窗户开</code></pre></div>
+
+<ul>
+<li>很多诗句对的还是不错的，例如<code>枝逐清风动 叶随白露生</code>，<code>三展蜀笺皆郢曲 九成秦笔尽湘弦</code>等等。</li>
+<li>特点：对仗工整；不怎么会写不对仗的句子</li>
+</ul>
+
+<h5 id="toc_25">调参</h5>
+
+<ul>
+<li>语言模型的权重越低，测试集上的BLEU和GLEU越高。说明我们的直觉有些道理，即诗句更注重对仗，流畅性次之。</li>
+<li>语言模型gram的数目是2或是3区别不大</li>
+</ul>
+
+<h4 id="toc_26">3.神经网络seq2seq模型</h4>
+
+<div><pre><code class="language-none">枝逐清风动 香随清水开&lt;eos&gt;&lt;eos&gt;&lt;eos&gt; |Ref:香因白雪知
+远山应见繁华事 一日无由不可寻&lt;eos&gt; |Ref:不语青青对水流
+远岸牧童吹短笛 孤舟飞鹭入长沙&lt;eos&gt; |Ref:蓼花深处信牛行
+鱼书曾替代 龙道不成笔&lt;eos&gt;&lt;eos&gt;&lt;eos&gt; |Ref:香火有因缘
+相思无路莫相思 不见春风无限人&lt;eos&gt; |Ref:风里花开只片时
+似见楼上人 不如山南山&lt;eos&gt;&lt;eos&gt;&lt;eos&gt; |Ref:玲珑窗户开
+
+东邻舞妓多金翠 北上旌旗照碧烟&lt;eos&gt; |Ref:笑剪灯花学画眉
+参差绿蒲短 萧瑟秋江远&lt;eos&gt;&lt;eos&gt;&lt;eos&gt; |Ref:摇艳云塘满
+明日又行西蜀去 一年何处是君家&lt;eos&gt; |Ref:不堪天际远山重
+文字一千重马拥 诗心一日不成斟&lt;eos&gt; |Ref:喜欢三十二人同
+正下搜贤诏 无名奉圣恩&lt;eos&gt;&lt;eos&gt;&lt;eos&gt; |Ref:多君独避名
+红杏园中终拟醉 白头白发长沾巾&lt;eos&gt; |Ref:白云山下懒归耕
+琴上只闻交颈语 酒中犹似玉盘金&lt;eos&gt; |Ref:窗前空展共飞诗</code></pre></div>
+
+<ul>
+<li>特点：不对仗的句子也可以写的不错，例如<code>明日又行西蜀去 一年何处是君家</code>。</li>
+</ul>
+
+<h5 id="toc_27">调参</h5>
+
+<ul>
+<li>hidden units of LSTM从128增加为256，embedding size从128增加至256，翻转FS作为输入，虽然能降低training loss，但测试集上的BLEU反而降低，因此最后还是选了小模型。</li>
+<li>在训练集上拟合的不好，即输入训练集中的诗句，模型完全无法给出原句子。</li>
+</ul>
+
+<h4 id="toc_28">4.神经网络encoder-dense模型</h4>
+
+<div><pre><code class="language-none">枝逐清风动 山随静露寒 |Ref:香因白雪知
+远山应见繁华事 远向寒城落夕时 |Ref:不语青青对水流
+远岸牧童吹短笛 遥惊风鸟去清舟 |Ref:蓼花深处信牛行
+鱼书曾替代 鹤剑欲为荣 |Ref:香火有因缘
+相思无路莫相思 秋风风断两别行 |Ref:风里花开只片时
+似见楼上人 夜声月月攀 |Ref:玲珑窗户开
+
+秋归旧窗竹 春绕半庭苔 |Ref:永夜一凄寂
+何时得向溪头赏 不羡吟云竹下琴 |Ref:旋摘菱花旋泛舟
+野风吹白芷 幽迹著清桑 |Ref:山月摇清轸
+再来物景还依旧 宝腹风天自入秋 |Ref:风冷松高猿狖吟
+不如来饮酒 稳卧醉陶醺 |Ref:相对醉厌厌
+花开愁北渚 云落忆人来 |Ref:云去渡南湘</code></pre></div>
+
+<h5 id="toc_29">调参</h5>
+
+<ul>
+<li>原本模型难以拟合训练集，traing loss卡在较高值不下降，经思考可能是模型不够强。hidden units of LSTM从128增加为512，embedding size从128增加至512，全连接层由1层增加至2层之后，效果提升非常明显，训练集可以拟合得较好，测试集的BLEU、GLEU也在不断上升。</li>
+</ul>
+
+<h3 id="toc_30">文件说明</h3>
+
+<ul>
+<li><code>code</code>：代码</li>
+<li><code>data</code>：语料，以及预处理的中间结果</li>
+<li><code>NMTModel</code>：存储神经网络模型，未上传</li>
+<li><code>NMTResult</code>：神经网络模型在测试集上的结果以及调参log</li>
+<li><code>report</code>：实验报告</li>
+<li><code>SMTResult</code>：传统翻译模型在测试集上的结果以及调参log</li>
+</ul>
+
+<h3 id="toc_31">运行说明</h3>
+
+<h4 id="toc_32">1.统计机器翻译模型</h4>
+
+<p>交互模式：</p>
+
+<div><pre><code class="language-none">HYdeMacBook-Pro:code apple$ python SMT.py
+Reading data...
+Training...
+Training Language Model...
+Traning Translation Model...
+输入诗句: 缀帘金翡翠
+输出诗句: 宫殿玉鸳红
+输入诗句: 不堪明月里
+输出诗句: 不可入云中
+输入诗句: 祝老师万事如意
+输出诗句: 流年是千年似情
+输入诗句: exit
+HYdeMacBook-Pro:code apple$ </code></pre></div>
+
+<p>测试模式（将在<code>SMTResult</code>文件夹生成对测试集的测试结果）：</p>
+
+<div><pre><code class="language-none">python SMT.py -m test</code></pre></div>
+
+<h4 id="toc_33">2.神经网络seq2seq模型</h4>
+
+<div><pre><code class="language-none">python NMTSeq2seqModel.py</code></pre></div>
+
+<h4 id="toc_34">3.神经网络encoder-dense模型</h4>
+
+<div><pre><code class="language-none">python NMTSeq2DenseModel.py</code></pre></div>
+
+<h2 id="toc_35">Reference</h2>
+
+<ul>
+<li>Ming Zhou, Long Jiang, and Jing He. 2009. <a href="http://www.anthology.aclweb.org/Y/Y09/Y09-1006.pdf">Generating Chinese Couplets and Quatrain Using a Statistical Approach</a>.</li>
+<li>Philipp Koehn, Franz Josef Och, Daniel Marcu. 2003. <a href="http://delivery.acm.org/10.1145/1080000/1073462/p48-koehn.pdf">Statistical Phrase-Based Translation</a></li>
+<li><a href="https://www.tensorflow.org/versions/master/tutorials/seq2seq">tensorflow seq2seq totorial</a></li>
+</ul>
+
+
+
+<script type="text/javascript">
+var _self="undefined"!=typeof window?window:"undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?self:{},Prism=function(){var e=/\blang(?:uage)?-(\w+)\b/i,t=0,n=_self.Prism={util:{encode:function(e){return e instanceof a?new a(e.type,n.util.encode(e.content),e.alias):"Array"===n.util.type(e)?e.map(n.util.encode):e.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/\u00a0/g," ")},type:function(e){return Object.prototype.toString.call(e).match(/\[object (\w+)\]/)[1]},objId:function(e){return e.__id||Object.defineProperty(e,"__id",{value:++t}),e.__id},clone:function(e){var t=n.util.type(e);switch(t){case"Object":var a={};for(var r in e)e.hasOwnProperty(r)&&(a[r]=n.util.clone(e[r]));return a;case"Array":return e.map&&e.map(function(e){return n.util.clone(e)})}return e}},languages:{extend:function(e,t){var a=n.util.clone(n.languages[e]);for(var r in t)a[r]=t[r];return a},insertBefore:function(e,t,a,r){r=r||n.languages;var l=r[e];if(2==arguments.length){a=arguments[1];for(var i in a)a.hasOwnProperty(i)&&(l[i]=a[i]);return l}var o={};for(var s in l)if(l.hasOwnProperty(s)){if(s==t)for(var i in a)a.hasOwnProperty(i)&&(o[i]=a[i]);o[s]=l[s]}return n.languages.DFS(n.languages,function(t,n){n===r[e]&&t!=e&&(this[t]=o)}),r[e]=o},DFS:function(e,t,a,r){r=r||{};for(var l in e)e.hasOwnProperty(l)&&(t.call(e,l,e[l],a||l),"Object"!==n.util.type(e[l])||r[n.util.objId(e[l])]?"Array"!==n.util.type(e[l])||r[n.util.objId(e[l])]||(r[n.util.objId(e[l])]=!0,n.languages.DFS(e[l],t,l,r)):(r[n.util.objId(e[l])]=!0,n.languages.DFS(e[l],t,null,r)))}},plugins:{},highlightAll:function(e,t){var a={callback:t,selector:'code[class*="language-"], [class*="language-"] code, code[class*="lang-"], [class*="lang-"] code'};n.hooks.run("before-highlightall",a);for(var r,l=a.elements||document.querySelectorAll(a.selector),i=0;r=l[i++];)n.highlightElement(r,e===!0,a.callback)},highlightElement:function(t,a,r){for(var l,i,o=t;o&&!e.test(o.className);)o=o.parentNode;o&&(l=(o.className.match(e)||[,""])[1],i=n.languages[l]),t.className=t.className.replace(e,"").replace(/\s+/g," ")+" language-"+l,o=t.parentNode,/pre/i.test(o.nodeName)&&(o.className=o.className.replace(e,"").replace(/\s+/g," ")+" language-"+l);var s=t.textContent,u={element:t,language:l,grammar:i,code:s};if(!s||!i)return n.hooks.run("complete",u),void 0;if(n.hooks.run("before-highlight",u),a&&_self.Worker){var c=new Worker(n.filename);c.onmessage=function(e){u.highlightedCode=e.data,n.hooks.run("before-insert",u),u.element.innerHTML=u.highlightedCode,r&&r.call(u.element),n.hooks.run("after-highlight",u),n.hooks.run("complete",u)},c.postMessage(JSON.stringify({language:u.language,code:u.code,immediateClose:!0}))}else u.highlightedCode=n.highlight(u.code,u.grammar,u.language),n.hooks.run("before-insert",u),u.element.innerHTML=u.highlightedCode,r&&r.call(t),n.hooks.run("after-highlight",u),n.hooks.run("complete",u)},highlight:function(e,t,r){var l=n.tokenize(e,t);return a.stringify(n.util.encode(l),r)},tokenize:function(e,t){var a=n.Token,r=[e],l=t.rest;if(l){for(var i in l)t[i]=l[i];delete t.rest}e:for(var i in t)if(t.hasOwnProperty(i)&&t[i]){var o=t[i];o="Array"===n.util.type(o)?o:[o];for(var s=0;s<o.length;++s){var u=o[s],c=u.inside,g=!!u.lookbehind,h=!!u.greedy,f=0,d=u.alias;u=u.pattern||u;for(var p=0;p<r.length;p++){var m=r[p];if(r.length>e.length)break e;if(!(m instanceof a)){u.lastIndex=0;var y=u.exec(m),v=1;if(!y&&h&&p!=r.length-1){var b=r[p+1].matchedStr||r[p+1],k=m+b;if(p<r.length-2&&(k+=r[p+2].matchedStr||r[p+2]),u.lastIndex=0,y=u.exec(k),!y)continue;var w=y.index+(g?y[1].length:0);if(w>=m.length)continue;var _=y.index+y[0].length,P=m.length+b.length;if(v=3,P>=_){if(r[p+1].greedy)continue;v=2,k=k.slice(0,P)}m=k}if(y){g&&(f=y[1].length);var w=y.index+f,y=y[0].slice(f),_=w+y.length,S=m.slice(0,w),O=m.slice(_),j=[p,v];S&&j.push(S);var A=new a(i,c?n.tokenize(y,c):y,d,y,h);j.push(A),O&&j.push(O),Array.prototype.splice.apply(r,j)}}}}}return r},hooks:{all:{},add:function(e,t){var a=n.hooks.all;a[e]=a[e]||[],a[e].push(t)},run:function(e,t){var a=n.hooks.all[e];if(a&&a.length)for(var r,l=0;r=a[l++];)r(t)}}},a=n.Token=function(e,t,n,a,r){this.type=e,this.content=t,this.alias=n,this.matchedStr=a||null,this.greedy=!!r};if(a.stringify=function(e,t,r){if("string"==typeof e)return e;if("Array"===n.util.type(e))return e.map(function(n){return a.stringify(n,t,e)}).join("");var l={type:e.type,content:a.stringify(e.content,t,r),tag:"span",classes:["token",e.type],attributes:{},language:t,parent:r};if("comment"==l.type&&(l.attributes.spellcheck="true"),e.alias){var i="Array"===n.util.type(e.alias)?e.alias:[e.alias];Array.prototype.push.apply(l.classes,i)}n.hooks.run("wrap",l);var o="";for(var s in l.attributes)o+=(o?" ":"")+s+'="'+(l.attributes[s]||"")+'"';return"<"+l.tag+' class="'+l.classes.join(" ")+'" '+o+">"+l.content+"</"+l.tag+">"},!_self.document)return _self.addEventListener?(_self.addEventListener("message",function(e){var t=JSON.parse(e.data),a=t.language,r=t.code,l=t.immediateClose;_self.postMessage(n.highlight(r,n.languages[a],a)),l&&_self.close()},!1),_self.Prism):_self.Prism;var r=document.currentScript||[].slice.call(document.getElementsByTagName("script")).pop();return r&&(n.filename=r.src,document.addEventListener&&!r.hasAttribute("data-manual")&&document.addEventListener("DOMContentLoaded",n.highlightAll)),_self.Prism}();"undefined"!=typeof module&&module.exports&&(module.exports=Prism),"undefined"!=typeof global&&(global.Prism=Prism);
+</script>
+
+<script type="text/x-mathjax-config">
+if (typeof MathJaxListener !== 'undefined') {
+  MathJax.Hub.Register.StartupHook('End', function () {
+    MathJaxListener.invokeCallbackForKey_('End');
+  });
+}
+</script>
+
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,1196 @@
+2017-12-29 20:17:36 INFO: 100 epoch, global step=100, train loss=8.464830
+2017-12-29 20:17:42 INFO: 200 epoch, global step=200, train loss=8.224022
+2017-12-29 20:17:51 INFO: 300 epoch, global step=300, train loss=8.002004
+2017-12-29 20:17:57 INFO: 400 epoch, global step=400, train loss=7.838751
+2017-12-29 20:18:05 INFO: 500 epoch, global step=500, train loss=7.769884
+2017-12-29 20:18:14 INFO: 600 epoch, global step=600, train loss=7.763372
+2017-12-29 20:18:24 INFO: 700 epoch, global step=700, train loss=7.709964
+2017-12-29 20:18:32 INFO: 800 epoch, global step=800, train loss=7.742383
+2017-12-29 20:18:38 INFO: 900 epoch, global step=900, train loss=7.693983
+2017-12-29 20:18:45 INFO: 1000 epoch, global step=1000, train loss=7.672498
+2017-12-29 20:18:48 INFO: HyEpoch 1, valid loss=7.677031
+2017-12-29 20:18:57 INFO: 100 epoch, global step=1100, train loss=7.629941
+2017-12-29 20:19:03 INFO: 200 epoch, global step=1200, train loss=7.567064
+2017-12-29 20:19:09 INFO: 300 epoch, global step=1300, train loss=7.476438
+2017-12-29 20:19:16 INFO: 400 epoch, global step=1400, train loss=7.393187
+2017-12-29 20:19:23 INFO: 500 epoch, global step=1500, train loss=7.398565
+2017-12-29 20:19:30 INFO: 600 epoch, global step=1600, train loss=7.319731
+2017-12-29 20:19:37 INFO: 700 epoch, global step=1700, train loss=7.335831
+2017-12-29 20:19:43 INFO: 800 epoch, global step=1800, train loss=7.244313
+2017-12-29 20:19:51 INFO: 900 epoch, global step=1900, train loss=7.256516
+2017-12-29 20:19:59 INFO: 1000 epoch, global step=2000, train loss=7.189860
+2017-12-29 20:20:02 INFO: HyEpoch 2, valid loss=7.186952
+2017-12-29 20:20:10 INFO: 100 epoch, global step=2100, train loss=7.136718
+2017-12-29 20:20:20 INFO: 200 epoch, global step=2200, train loss=7.063482
+2017-12-29 20:20:27 INFO: 300 epoch, global step=2300, train loss=7.914670
+2017-12-29 20:20:33 INFO: 400 epoch, global step=2400, train loss=6.809823
+2017-12-29 20:20:41 INFO: 500 epoch, global step=2500, train loss=6.685784
+2017-12-29 20:20:51 INFO: 600 epoch, global step=2600, train loss=6.546125
+2017-12-29 20:20:56 INFO: 700 epoch, global step=2700, train loss=6.474006
+2017-12-29 20:21:07 INFO: 800 epoch, global step=2800, train loss=6.396382
+2017-12-29 20:21:13 INFO: 900 epoch, global step=2900, train loss=6.340744
+2017-12-29 20:21:19 INFO: 1000 epoch, global step=3000, train loss=6.235340
+2017-12-29 20:21:22 INFO: HyEpoch 3, valid loss=6.261986
+2017-12-29 20:21:29 INFO: 100 epoch, global step=3100, train loss=6.250650
+2017-12-29 20:21:38 INFO: 200 epoch, global step=3200, train loss=6.200480
+2017-12-29 20:21:45 INFO: 300 epoch, global step=3300, train loss=6.225177
+2017-12-29 20:21:51 INFO: 400 epoch, global step=3400, train loss=6.144196
+2017-12-29 20:21:56 INFO: 500 epoch, global step=3500, train loss=6.207063
+2017-12-29 20:22:02 INFO: 600 epoch, global step=3600, train loss=6.188802
+2017-12-29 20:22:09 INFO: 700 epoch, global step=3700, train loss=6.139869
+2017-12-29 20:22:14 INFO: 800 epoch, global step=3800, train loss=6.192567
+2017-12-29 20:22:20 INFO: 900 epoch, global step=3900, train loss=6.110530
+2017-12-29 20:22:28 INFO: 1000 epoch, global step=4000, train loss=6.171815
+2017-12-29 20:22:31 INFO: HyEpoch 4, valid loss=6.129002
+2017-12-29 20:22:38 INFO: 100 epoch, global step=4100, train loss=6.060322
+2017-12-29 20:22:45 INFO: 200 epoch, global step=4200, train loss=6.183698
+2017-12-29 20:22:52 INFO: 300 epoch, global step=4300, train loss=6.165318
+2017-12-29 20:23:00 INFO: 400 epoch, global step=4400, train loss=6.062045
+2017-12-29 20:23:08 INFO: 500 epoch, global step=4500, train loss=6.104806
+2017-12-29 20:23:15 INFO: 600 epoch, global step=4600, train loss=6.004348
+2017-12-29 20:23:22 INFO: 700 epoch, global step=4700, train loss=6.115525
+2017-12-29 20:23:29 INFO: 800 epoch, global step=4800, train loss=6.088144
+2017-12-29 20:23:36 INFO: 900 epoch, global step=4900, train loss=5.997361
+2017-12-29 20:23:42 INFO: 1000 epoch, global step=5000, train loss=6.119226
+2017-12-29 20:23:45 INFO: HyEpoch 5, valid loss=6.092368
+2017-12-29 20:23:45 INFO: 胡雁哀鸣夜夜飞 不不不不不人人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 20:23:45 INFO: 新秋日后晒书天 不不不不不人人<eos> |Ref:白日当松影却圆
+2017-12-29 20:23:45 INFO: 佳人忆山水 不不不人人<eos> |Ref:置酒在高台
+2017-12-29 20:23:45 INFO: 朝朝奉御临池上 不不不不不人人<eos> |Ref:不羡青松拜大夫
+2017-12-29 20:23:54 INFO: 100 epoch, global step=5100, train loss=6.102405
+2017-12-29 20:24:01 INFO: 200 epoch, global step=5200, train loss=6.111911
+2017-12-29 20:24:08 INFO: 300 epoch, global step=5300, train loss=6.203883
+2017-12-29 20:24:18 INFO: 400 epoch, global step=5400, train loss=5.997988
+2017-12-29 20:24:28 INFO: 500 epoch, global step=5500, train loss=6.059150
+2017-12-29 20:24:38 INFO: 600 epoch, global step=5600, train loss=6.192017
+2017-12-29 20:24:46 INFO: 700 epoch, global step=5700, train loss=6.004092
+2017-12-29 20:24:54 INFO: 800 epoch, global step=5800, train loss=6.120870
+2017-12-29 20:25:00 INFO: 900 epoch, global step=5900, train loss=6.074610
+2017-12-29 20:25:06 INFO: 1000 epoch, global step=6000, train loss=6.156368
+2017-12-29 20:25:09 INFO: HyEpoch 6, valid loss=6.066656
+2017-12-29 20:25:17 INFO: 100 epoch, global step=6100, train loss=6.067039
+2017-12-29 20:25:24 INFO: 200 epoch, global step=6200, train loss=6.148354
+2017-12-29 20:25:30 INFO: 300 epoch, global step=6300, train loss=6.055601
+2017-12-29 20:25:36 INFO: 400 epoch, global step=6400, train loss=6.020321
+2017-12-29 20:25:47 INFO: 500 epoch, global step=6500, train loss=6.062738
+2017-12-29 20:25:56 INFO: 600 epoch, global step=6600, train loss=6.060589
+2017-12-29 20:26:02 INFO: 700 epoch, global step=6700, train loss=6.079946
+2017-12-29 20:26:09 INFO: 800 epoch, global step=6800, train loss=5.964790
+2017-12-29 20:26:15 INFO: 900 epoch, global step=6900, train loss=6.112618
+2017-12-29 20:26:22 INFO: 1000 epoch, global step=7000, train loss=6.082054
+2017-12-29 20:26:25 INFO: HyEpoch 7, valid loss=6.057015
+2017-12-29 20:26:31 INFO: 100 epoch, global step=7100, train loss=6.096194
+2017-12-29 20:26:38 INFO: 200 epoch, global step=7200, train loss=5.934517
+2017-12-29 20:26:44 INFO: 300 epoch, global step=7300, train loss=6.035627
+2017-12-29 20:26:52 INFO: 400 epoch, global step=7400, train loss=6.084640
+2017-12-29 20:27:02 INFO: 500 epoch, global step=7500, train loss=6.187504
+2017-12-29 20:27:10 INFO: 600 epoch, global step=7600, train loss=6.048824
+2017-12-29 20:27:17 INFO: 700 epoch, global step=7700, train loss=6.108085
+2017-12-29 20:27:25 INFO: 800 epoch, global step=7800, train loss=6.111535
+2017-12-29 20:27:35 INFO: 900 epoch, global step=7900, train loss=6.029550
+2017-12-29 20:27:43 INFO: 1000 epoch, global step=8000, train loss=6.080682
+2017-12-29 20:27:46 INFO: HyEpoch 8, valid loss=6.042509
+2017-12-29 20:27:52 INFO: 100 epoch, global step=8100, train loss=5.988597
+2017-12-29 20:27:59 INFO: 200 epoch, global step=8200, train loss=5.959043
+2017-12-29 20:28:09 INFO: 300 epoch, global step=8300, train loss=6.033924
+2017-12-29 20:28:16 INFO: 400 epoch, global step=8400, train loss=5.993382
+2017-12-29 20:28:23 INFO: 500 epoch, global step=8500, train loss=6.183852
+2017-12-29 20:28:35 INFO: 600 epoch, global step=8600, train loss=6.049556
+2017-12-29 20:28:42 INFO: 700 epoch, global step=8700, train loss=6.074543
+2017-12-29 20:28:50 INFO: 800 epoch, global step=8800, train loss=6.077606
+2017-12-29 20:28:58 INFO: 900 epoch, global step=8900, train loss=6.081349
+2017-12-29 20:29:05 INFO: 1000 epoch, global step=9000, train loss=6.134624
+2017-12-29 20:29:07 INFO: HyEpoch 9, valid loss=6.034027
+2017-12-29 20:29:14 INFO: 100 epoch, global step=9100, train loss=6.064312
+2017-12-29 20:29:21 INFO: 200 epoch, global step=9200, train loss=6.059082
+2017-12-29 20:29:27 INFO: 300 epoch, global step=9300, train loss=6.001918
+2017-12-29 20:29:33 INFO: 400 epoch, global step=9400, train loss=5.998688
+2017-12-29 20:29:40 INFO: 500 epoch, global step=9500, train loss=6.102062
+2017-12-29 20:29:46 INFO: 600 epoch, global step=9600, train loss=6.037601
+2017-12-29 20:29:52 INFO: 700 epoch, global step=9700, train loss=5.868329
+2017-12-29 20:29:59 INFO: 800 epoch, global step=9800, train loss=6.154213
+2017-12-29 20:30:10 INFO: 900 epoch, global step=9900, train loss=6.027483
+2017-12-29 20:30:15 INFO: 1000 epoch, global step=10000, train loss=6.133219
+2017-12-29 20:30:18 INFO: HyEpoch 10, valid loss=6.031117
+2017-12-29 20:30:18 INFO: 胡雁哀鸣夜夜飞 不风人不不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 20:30:18 INFO: 新秋日后晒书天 不风人不不不人<eos> |Ref:白日当松影却圆
+2017-12-29 20:30:18 INFO: 佳人忆山水 不不不不人<eos> |Ref:置酒在高台
+2017-12-29 20:30:18 INFO: 朝朝奉御临池上 不风人不不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 20:30:25 INFO: 100 epoch, global step=10100, train loss=6.036543
+2017-12-29 20:30:34 INFO: 200 epoch, global step=10200, train loss=6.070273
+2017-12-29 20:30:45 INFO: 300 epoch, global step=10300, train loss=6.052086
+2017-12-29 20:30:53 INFO: 400 epoch, global step=10400, train loss=6.067924
+2017-12-29 20:31:01 INFO: 500 epoch, global step=10500, train loss=5.974032
+2017-12-29 20:31:09 INFO: 600 epoch, global step=10600, train loss=6.025333
+2017-12-29 20:31:16 INFO: 700 epoch, global step=10700, train loss=6.111551
+2017-12-29 20:31:24 INFO: 800 epoch, global step=10800, train loss=6.109113
+2017-12-29 20:31:33 INFO: 900 epoch, global step=10900, train loss=6.091056
+2017-12-29 20:31:42 INFO: 1000 epoch, global step=11000, train loss=5.948987
+2017-12-29 20:31:46 INFO: HyEpoch 11, valid loss=6.023001
+2017-12-29 20:31:52 INFO: 100 epoch, global step=11100, train loss=5.981703
+2017-12-29 20:32:02 INFO: 200 epoch, global step=11200, train loss=5.962229
+2017-12-29 20:32:09 INFO: 300 epoch, global step=11300, train loss=6.062745
+2017-12-29 20:32:16 INFO: 400 epoch, global step=11400, train loss=6.065596
+2017-12-29 20:32:24 INFO: 500 epoch, global step=11500, train loss=6.094770
+2017-12-29 20:32:32 INFO: 600 epoch, global step=11600, train loss=6.041530
+2017-12-29 20:32:42 INFO: 700 epoch, global step=11700, train loss=5.934521
+2017-12-29 20:32:52 INFO: 800 epoch, global step=11800, train loss=6.019771
+2017-12-29 20:33:00 INFO: 900 epoch, global step=11900, train loss=6.103373
+2017-12-29 20:33:08 INFO: 1000 epoch, global step=12000, train loss=5.862648
+2017-12-29 20:33:12 INFO: HyEpoch 12, valid loss=6.015895
+2017-12-29 20:33:19 INFO: 100 epoch, global step=12100, train loss=5.963486
+2017-12-29 20:33:28 INFO: 200 epoch, global step=12200, train loss=6.009470
+2017-12-29 20:33:37 INFO: 300 epoch, global step=12300, train loss=6.085857
+2017-12-29 20:33:43 INFO: 400 epoch, global step=12400, train loss=6.021577
+2017-12-29 20:33:50 INFO: 500 epoch, global step=12500, train loss=6.016848
+2017-12-29 20:33:57 INFO: 600 epoch, global step=12600, train loss=6.082470
+2017-12-29 20:34:05 INFO: 700 epoch, global step=12700, train loss=6.012131
+2017-12-29 20:34:13 INFO: 800 epoch, global step=12800, train loss=5.983727
+2017-12-29 20:34:21 INFO: 900 epoch, global step=12900, train loss=5.931368
+2017-12-29 20:34:29 INFO: 1000 epoch, global step=13000, train loss=5.984664
+2017-12-29 20:34:32 INFO: HyEpoch 13, valid loss=6.009393
+2017-12-29 20:34:39 INFO: 100 epoch, global step=13100, train loss=6.040987
+2017-12-29 20:34:45 INFO: 200 epoch, global step=13200, train loss=6.065331
+2017-12-29 20:34:56 INFO: 300 epoch, global step=13300, train loss=5.997459
+2017-12-29 20:35:03 INFO: 400 epoch, global step=13400, train loss=5.987473
+2017-12-29 20:35:11 INFO: 500 epoch, global step=13500, train loss=6.320928
+2017-12-29 20:35:20 INFO: 600 epoch, global step=13600, train loss=6.042418
+2017-12-29 20:35:28 INFO: 700 epoch, global step=13700, train loss=6.019763
+2017-12-29 20:35:35 INFO: 800 epoch, global step=13800, train loss=6.096984
+2017-12-29 20:35:42 INFO: 900 epoch, global step=13900, train loss=5.941261
+2017-12-29 20:35:50 INFO: 1000 epoch, global step=14000, train loss=6.020177
+2017-12-29 20:35:53 INFO: HyEpoch 14, valid loss=6.007318
+2017-12-29 20:36:01 INFO: 100 epoch, global step=14100, train loss=5.914018
+2017-12-29 20:36:09 INFO: 200 epoch, global step=14200, train loss=6.085801
+2017-12-29 20:36:17 INFO: 300 epoch, global step=14300, train loss=5.954280
+2017-12-29 20:36:24 INFO: 400 epoch, global step=14400, train loss=6.091526
+2017-12-29 20:36:33 INFO: 500 epoch, global step=14500, train loss=6.014944
+2017-12-29 20:36:40 INFO: 600 epoch, global step=14600, train loss=5.945711
+2017-12-29 20:36:51 INFO: 700 epoch, global step=14700, train loss=5.992078
+2017-12-29 20:36:58 INFO: 800 epoch, global step=14800, train loss=5.930755
+2017-12-29 20:37:05 INFO: 900 epoch, global step=14900, train loss=6.102904
+2017-12-29 20:37:12 INFO: 1000 epoch, global step=15000, train loss=6.038357
+2017-12-29 20:37:14 INFO: HyEpoch 15, valid loss=6.003798
+2017-12-29 20:37:14 INFO: 胡雁哀鸣夜夜飞 不人人人不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 20:37:15 INFO: 新秋日后晒书天 不人人人不不人<eos> |Ref:白日当松影却圆
+2017-12-29 20:37:15 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 20:37:15 INFO: 朝朝奉御临池上 不人人人不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 20:37:21 INFO: 100 epoch, global step=15100, train loss=5.982881
+2017-12-29 20:37:28 INFO: 200 epoch, global step=15200, train loss=5.970073
+2017-12-29 20:37:36 INFO: 300 epoch, global step=15300, train loss=5.960533
+2017-12-29 20:37:45 INFO: 400 epoch, global step=15400, train loss=5.923707
+2017-12-29 20:37:52 INFO: 500 epoch, global step=15500, train loss=5.912519
+2017-12-29 20:38:02 INFO: 600 epoch, global step=15600, train loss=6.052199
+2017-12-29 20:38:09 INFO: 700 epoch, global step=15700, train loss=6.053133
+2017-12-29 20:38:17 INFO: 800 epoch, global step=15800, train loss=6.000792
+2017-12-29 20:38:25 INFO: 900 epoch, global step=15900, train loss=5.971890
+2017-12-29 20:38:31 INFO: 1000 epoch, global step=16000, train loss=5.872620
+2017-12-29 20:38:34 INFO: HyEpoch 16, valid loss=6.003509
+2017-12-29 20:38:39 INFO: 100 epoch, global step=16100, train loss=5.952645
+2017-12-29 20:38:46 INFO: 200 epoch, global step=16200, train loss=6.003036
+2017-12-29 20:38:56 INFO: 300 epoch, global step=16300, train loss=6.156621
+2017-12-29 20:39:08 INFO: 400 epoch, global step=16400, train loss=5.982488
+2017-12-29 20:39:15 INFO: 500 epoch, global step=16500, train loss=6.026501
+2017-12-29 20:39:22 INFO: 600 epoch, global step=16600, train loss=6.096714
+2017-12-29 20:39:28 INFO: 700 epoch, global step=16700, train loss=6.081088
+2017-12-29 20:39:35 INFO: 800 epoch, global step=16800, train loss=6.031663
+2017-12-29 20:39:41 INFO: 900 epoch, global step=16900, train loss=5.940650
+2017-12-29 20:39:48 INFO: 1000 epoch, global step=17000, train loss=5.998651
+2017-12-29 20:39:51 INFO: HyEpoch 17, valid loss=5.994553
+2017-12-29 20:39:57 INFO: 100 epoch, global step=17100, train loss=6.079389
+2017-12-29 20:40:05 INFO: 200 epoch, global step=17200, train loss=6.041588
+2017-12-29 20:40:13 INFO: 300 epoch, global step=17300, train loss=5.907634
+2017-12-29 20:40:20 INFO: 400 epoch, global step=17400, train loss=6.036010
+2017-12-29 20:40:27 INFO: 500 epoch, global step=17500, train loss=5.981343
+2017-12-29 20:40:34 INFO: 600 epoch, global step=17600, train loss=6.034637
+2017-12-29 20:40:41 INFO: 700 epoch, global step=17700, train loss=6.131529
+2017-12-29 20:40:48 INFO: 800 epoch, global step=17800, train loss=5.982184
+2017-12-29 20:40:54 INFO: 900 epoch, global step=17900, train loss=6.000483
+2017-12-29 20:41:01 INFO: 1000 epoch, global step=18000, train loss=6.001599
+2017-12-29 20:41:03 INFO: HyEpoch 18, valid loss=5.995033
+2017-12-29 20:41:10 INFO: 100 epoch, global step=18100, train loss=6.065557
+2017-12-29 20:41:17 INFO: 200 epoch, global step=18200, train loss=5.898214
+2017-12-29 20:41:25 INFO: 300 epoch, global step=18300, train loss=6.081470
+2017-12-29 20:41:32 INFO: 400 epoch, global step=18400, train loss=6.090073
+2017-12-29 20:41:42 INFO: 500 epoch, global step=18500, train loss=5.924889
+2017-12-29 20:41:48 INFO: 600 epoch, global step=18600, train loss=6.103350
+2017-12-29 20:41:55 INFO: 700 epoch, global step=18700, train loss=6.032467
+2017-12-29 20:42:01 INFO: 800 epoch, global step=18800, train loss=5.967622
+2017-12-29 20:42:08 INFO: 900 epoch, global step=18900, train loss=5.974124
+2017-12-29 20:42:14 INFO: 1000 epoch, global step=19000, train loss=6.091790
+2017-12-29 20:42:17 INFO: HyEpoch 19, valid loss=5.991701
+2017-12-29 20:42:23 INFO: 100 epoch, global step=19100, train loss=6.032814
+2017-12-29 20:42:29 INFO: 200 epoch, global step=19200, train loss=5.947795
+2017-12-29 20:42:34 INFO: 300 epoch, global step=19300, train loss=5.919977
+2017-12-29 20:42:40 INFO: 400 epoch, global step=19400, train loss=5.946077
+2017-12-29 20:42:46 INFO: 500 epoch, global step=19500, train loss=5.912302
+2017-12-29 20:42:52 INFO: 600 epoch, global step=19600, train loss=6.024222
+2017-12-29 20:43:00 INFO: 700 epoch, global step=19700, train loss=6.080189
+2017-12-29 20:43:08 INFO: 800 epoch, global step=19800, train loss=5.981783
+2017-12-29 20:43:14 INFO: 900 epoch, global step=19900, train loss=5.942772
+2017-12-29 20:43:23 INFO: 1000 epoch, global step=20000, train loss=6.096621
+2017-12-29 20:43:25 INFO: HyEpoch 20, valid loss=5.987140
+2017-12-29 20:43:25 INFO: 胡雁哀鸣夜夜飞 不人人不不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 20:43:25 INFO: 新秋日后晒书天 不人人不不不人<eos> |Ref:白日当松影却圆
+2017-12-29 20:43:25 INFO: 佳人忆山水 不不不不人<eos> |Ref:置酒在高台
+2017-12-29 20:43:25 INFO: 朝朝奉御临池上 不人人不不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 20:43:39 INFO: BLEU=0.0005, GLEU=0.0031 |NMTSeq2seq_hs128_bs128_es128_kr0.50_mgn5.00_lr0.1000_is0.00_nl2_vs6000_bw1
+2017-12-29 20:43:47 INFO: 100 epoch, global step=20100, train loss=5.995681
+2017-12-29 20:43:53 INFO: 200 epoch, global step=20200, train loss=6.026733
+2017-12-29 20:44:00 INFO: 300 epoch, global step=20300, train loss=5.994808
+2017-12-29 20:44:08 INFO: 400 epoch, global step=20400, train loss=6.009225
+2017-12-29 20:44:14 INFO: 500 epoch, global step=20500, train loss=6.046671
+2017-12-29 20:44:21 INFO: 600 epoch, global step=20600, train loss=5.939457
+2017-12-29 20:44:29 INFO: 700 epoch, global step=20700, train loss=5.959318
+2017-12-29 20:44:36 INFO: 800 epoch, global step=20800, train loss=6.086274
+2017-12-29 20:44:42 INFO: 900 epoch, global step=20900, train loss=5.944137
+2017-12-29 20:44:48 INFO: 1000 epoch, global step=21000, train loss=6.026484
+2017-12-29 20:44:51 INFO: HyEpoch 21, valid loss=5.988163
+2017-12-29 20:44:59 INFO: 100 epoch, global step=21100, train loss=5.968228
+2017-12-29 20:45:05 INFO: 200 epoch, global step=21200, train loss=6.001760
+2017-12-29 20:45:14 INFO: 300 epoch, global step=21300, train loss=5.962078
+2017-12-29 20:45:20 INFO: 400 epoch, global step=21400, train loss=6.026693
+2017-12-29 20:45:31 INFO: 500 epoch, global step=21500, train loss=5.985681
+2017-12-29 20:45:39 INFO: 600 epoch, global step=21600, train loss=6.053093
+2017-12-29 20:45:46 INFO: 700 epoch, global step=21700, train loss=6.004872
+2017-12-29 20:45:56 INFO: 800 epoch, global step=21800, train loss=6.133790
+2017-12-29 20:46:01 INFO: 900 epoch, global step=21900, train loss=6.069231
+2017-12-29 20:46:07 INFO: 1000 epoch, global step=22000, train loss=5.980933
+2017-12-29 20:46:09 INFO: HyEpoch 22, valid loss=5.981503
+2017-12-29 20:46:16 INFO: 100 epoch, global step=22100, train loss=5.994195
+2017-12-29 20:46:24 INFO: 200 epoch, global step=22200, train loss=5.979270
+2017-12-29 20:46:29 INFO: 300 epoch, global step=22300, train loss=5.949461
+2017-12-29 20:46:38 INFO: 400 epoch, global step=22400, train loss=6.045877
+2017-12-29 20:46:44 INFO: 500 epoch, global step=22500, train loss=5.940042
+2017-12-29 20:46:57 INFO: 600 epoch, global step=22600, train loss=5.983862
+2017-12-29 20:47:04 INFO: 700 epoch, global step=22700, train loss=5.980686
+2017-12-29 20:47:11 INFO: 800 epoch, global step=22800, train loss=5.973903
+2017-12-29 20:47:17 INFO: 900 epoch, global step=22900, train loss=5.995212
+2017-12-29 20:47:24 INFO: 1000 epoch, global step=23000, train loss=5.907624
+2017-12-29 20:47:27 INFO: HyEpoch 23, valid loss=5.981671
+2017-12-29 20:47:37 INFO: 100 epoch, global step=23100, train loss=5.952081
+2017-12-29 20:47:44 INFO: 200 epoch, global step=23200, train loss=5.986696
+2017-12-29 20:47:50 INFO: 300 epoch, global step=23300, train loss=5.945552
+2017-12-29 20:47:55 INFO: 400 epoch, global step=23400, train loss=5.978888
+2017-12-29 20:48:01 INFO: 500 epoch, global step=23500, train loss=6.007455
+2017-12-29 20:48:09 INFO: 600 epoch, global step=23600, train loss=6.061736
+2017-12-29 20:48:15 INFO: 700 epoch, global step=23700, train loss=5.822660
+2017-12-29 20:48:22 INFO: 800 epoch, global step=23800, train loss=6.084949
+2017-12-29 20:48:29 INFO: 900 epoch, global step=23900, train loss=6.014736
+2017-12-29 20:48:36 INFO: 1000 epoch, global step=24000, train loss=5.958744
+2017-12-29 20:48:39 INFO: HyEpoch 24, valid loss=5.981406
+2017-12-29 20:48:47 INFO: 100 epoch, global step=24100, train loss=5.973403
+2017-12-29 20:49:01 INFO: 200 epoch, global step=24200, train loss=5.986776
+2017-12-29 20:49:07 INFO: 300 epoch, global step=24300, train loss=6.003688
+2017-12-29 20:49:14 INFO: 400 epoch, global step=24400, train loss=5.908982
+2017-12-29 20:49:22 INFO: 500 epoch, global step=24500, train loss=6.000112
+2017-12-29 20:49:29 INFO: 600 epoch, global step=24600, train loss=6.016664
+2017-12-29 20:49:38 INFO: 700 epoch, global step=24700, train loss=5.909617
+2017-12-29 20:49:45 INFO: 800 epoch, global step=24800, train loss=5.931779
+2017-12-29 20:49:53 INFO: 900 epoch, global step=24900, train loss=5.947465
+2017-12-29 20:50:01 INFO: 1000 epoch, global step=25000, train loss=6.001588
+2017-12-29 20:50:04 INFO: HyEpoch 25, valid loss=5.978477
+2017-12-29 20:50:04 INFO: 胡雁哀鸣夜夜飞 不人人人不人人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 20:50:04 INFO: 新秋日后晒书天 不人人人不人人<eos> |Ref:白日当松影却圆
+2017-12-29 20:50:04 INFO: 佳人忆山水 不人不人人<eos> |Ref:置酒在高台
+2017-12-29 20:50:04 INFO: 朝朝奉御临池上 不人人人不人人<eos> |Ref:不羡青松拜大夫
+2017-12-29 20:50:14 INFO: 100 epoch, global step=25100, train loss=5.969800
+2017-12-29 20:50:21 INFO: 200 epoch, global step=25200, train loss=5.937377
+2017-12-29 20:50:29 INFO: 300 epoch, global step=25300, train loss=5.959872
+2017-12-29 20:50:39 INFO: 400 epoch, global step=25400, train loss=6.030750
+2017-12-29 20:50:46 INFO: 500 epoch, global step=25500, train loss=5.911963
+2017-12-29 20:50:52 INFO: 600 epoch, global step=25600, train loss=5.996756
+2017-12-29 20:51:01 INFO: 700 epoch, global step=25700, train loss=6.073687
+2017-12-29 20:51:08 INFO: 800 epoch, global step=25800, train loss=6.031659
+2017-12-29 20:51:14 INFO: 900 epoch, global step=25900, train loss=5.991959
+2017-12-29 20:51:21 INFO: 1000 epoch, global step=26000, train loss=5.875032
+2017-12-29 20:51:24 INFO: HyEpoch 26, valid loss=5.973248
+2017-12-29 20:51:34 INFO: 100 epoch, global step=26100, train loss=6.078575
+2017-12-29 20:51:40 INFO: 200 epoch, global step=26200, train loss=5.927198
+2017-12-29 20:51:47 INFO: 300 epoch, global step=26300, train loss=6.051550
+2017-12-29 20:51:55 INFO: 400 epoch, global step=26400, train loss=5.971301
+2017-12-29 20:52:03 INFO: 500 epoch, global step=26500, train loss=6.014771
+2017-12-29 20:52:09 INFO: 600 epoch, global step=26600, train loss=5.954206
+2017-12-29 20:52:16 INFO: 700 epoch, global step=26700, train loss=5.969573
+2017-12-29 20:52:22 INFO: 800 epoch, global step=26800, train loss=6.022632
+2017-12-29 20:52:28 INFO: 900 epoch, global step=26900, train loss=6.008183
+2017-12-29 20:52:37 INFO: 1000 epoch, global step=27000, train loss=5.994017
+2017-12-29 20:52:40 INFO: HyEpoch 27, valid loss=5.969238
+2017-12-29 20:52:48 INFO: 100 epoch, global step=27100, train loss=5.937078
+2017-12-29 20:52:53 INFO: 200 epoch, global step=27200, train loss=5.945370
+2017-12-29 20:53:07 INFO: 300 epoch, global step=27300, train loss=5.927362
+2017-12-29 20:53:14 INFO: 400 epoch, global step=27400, train loss=5.990612
+2017-12-29 20:53:23 INFO: 500 epoch, global step=27500, train loss=6.017598
+2017-12-29 20:53:28 INFO: 600 epoch, global step=27600, train loss=6.085479
+2017-12-29 20:53:35 INFO: 700 epoch, global step=27700, train loss=5.942585
+2017-12-29 20:53:44 INFO: 800 epoch, global step=27800, train loss=5.992899
+2017-12-29 20:53:50 INFO: 900 epoch, global step=27900, train loss=6.043043
+2017-12-29 20:53:55 INFO: 1000 epoch, global step=28000, train loss=5.972193
+2017-12-29 20:53:58 INFO: HyEpoch 28, valid loss=5.973411
+2017-12-29 20:54:05 INFO: 100 epoch, global step=28100, train loss=5.894371
+2017-12-29 20:54:12 INFO: 200 epoch, global step=28200, train loss=5.925560
+2017-12-29 20:54:19 INFO: 300 epoch, global step=28300, train loss=5.980138
+2017-12-29 20:54:26 INFO: 400 epoch, global step=28400, train loss=5.936316
+2017-12-29 20:54:32 INFO: 500 epoch, global step=28500, train loss=5.944113
+2017-12-29 20:54:40 INFO: 600 epoch, global step=28600, train loss=5.953031
+2017-12-29 20:54:48 INFO: 700 epoch, global step=28700, train loss=5.947810
+2017-12-29 20:54:55 INFO: 800 epoch, global step=28800, train loss=6.014550
+2017-12-29 20:55:01 INFO: 900 epoch, global step=28900, train loss=6.031158
+2017-12-29 20:55:09 INFO: 1000 epoch, global step=29000, train loss=6.050965
+2017-12-29 20:55:12 INFO: HyEpoch 29, valid loss=5.968258
+2017-12-29 20:55:22 INFO: 100 epoch, global step=29100, train loss=6.078782
+2017-12-29 20:55:33 INFO: 200 epoch, global step=29200, train loss=6.022911
+2017-12-29 20:55:39 INFO: 300 epoch, global step=29300, train loss=5.959006
+2017-12-29 20:55:47 INFO: 400 epoch, global step=29400, train loss=6.027985
+2017-12-29 20:55:57 INFO: 500 epoch, global step=29500, train loss=6.052850
+2017-12-29 20:56:05 INFO: 600 epoch, global step=29600, train loss=6.007760
+2017-12-29 20:56:14 INFO: 700 epoch, global step=29700, train loss=5.963049
+2017-12-29 20:56:22 INFO: 800 epoch, global step=29800, train loss=5.968167
+2017-12-29 20:56:29 INFO: 900 epoch, global step=29900, train loss=5.946273
+2017-12-29 20:56:36 INFO: 1000 epoch, global step=30000, train loss=5.991764
+2017-12-29 20:56:39 INFO: HyEpoch 30, valid loss=5.971750
+2017-12-29 20:56:39 INFO: 胡雁哀鸣夜夜飞 一人人人不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 20:56:39 INFO: 新秋日后晒书天 一人人人不不人<eos> |Ref:白日当松影却圆
+2017-12-29 20:56:39 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 20:56:39 INFO: 朝朝奉御临池上 一人人人不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 20:56:46 INFO: 100 epoch, global step=30100, train loss=5.983745
+2017-12-29 20:56:54 INFO: 200 epoch, global step=30200, train loss=6.143388
+2017-12-29 20:57:00 INFO: 300 epoch, global step=30300, train loss=5.935594
+2017-12-29 20:57:09 INFO: 400 epoch, global step=30400, train loss=6.029790
+2017-12-29 20:57:17 INFO: 500 epoch, global step=30500, train loss=6.028203
+2017-12-29 20:57:25 INFO: 600 epoch, global step=30600, train loss=5.982956
+2017-12-29 20:57:31 INFO: 700 epoch, global step=30700, train loss=5.968322
+2017-12-29 20:57:40 INFO: 800 epoch, global step=30800, train loss=6.008429
+2017-12-29 20:57:48 INFO: 900 epoch, global step=30900, train loss=5.973590
+2017-12-29 20:57:55 INFO: 1000 epoch, global step=31000, train loss=5.935465
+2017-12-29 20:57:58 INFO: HyEpoch 31, valid loss=5.962622
+2017-12-29 20:58:06 INFO: 100 epoch, global step=31100, train loss=5.966363
+2017-12-29 20:58:13 INFO: 200 epoch, global step=31200, train loss=5.833932
+2017-12-29 20:58:19 INFO: 300 epoch, global step=31300, train loss=6.017565
+2017-12-29 20:58:25 INFO: 400 epoch, global step=31400, train loss=5.878230
+2017-12-29 20:58:33 INFO: 500 epoch, global step=31500, train loss=5.982519
+2017-12-29 20:58:41 INFO: 600 epoch, global step=31600, train loss=5.981606
+2017-12-29 20:58:49 INFO: 700 epoch, global step=31700, train loss=5.986737
+2017-12-29 20:58:56 INFO: 800 epoch, global step=31800, train loss=5.988620
+2017-12-29 20:59:03 INFO: 900 epoch, global step=31900, train loss=5.922209
+2017-12-29 20:59:14 INFO: 1000 epoch, global step=32000, train loss=5.998623
+2017-12-29 20:59:17 INFO: HyEpoch 32, valid loss=5.965097
+2017-12-29 20:59:24 INFO: 100 epoch, global step=32100, train loss=5.985970
+2017-12-29 20:59:30 INFO: 200 epoch, global step=32200, train loss=6.017375
+2017-12-29 20:59:37 INFO: 300 epoch, global step=32300, train loss=5.974541
+2017-12-29 20:59:46 INFO: 400 epoch, global step=32400, train loss=6.078783
+2017-12-29 20:59:52 INFO: 500 epoch, global step=32500, train loss=5.931063
+2017-12-29 20:59:59 INFO: 600 epoch, global step=32600, train loss=5.937186
+2017-12-29 21:00:07 INFO: 700 epoch, global step=32700, train loss=6.033126
+2017-12-29 21:00:17 INFO: 800 epoch, global step=32800, train loss=6.015466
+2017-12-29 21:00:23 INFO: 900 epoch, global step=32900, train loss=6.053891
+2017-12-29 21:00:28 INFO: 1000 epoch, global step=33000, train loss=6.020459
+2017-12-29 21:00:31 INFO: HyEpoch 33, valid loss=5.960884
+2017-12-29 21:00:37 INFO: 100 epoch, global step=33100, train loss=5.894718
+2017-12-29 21:00:42 INFO: 200 epoch, global step=33200, train loss=5.998151
+2017-12-29 21:00:48 INFO: 300 epoch, global step=33300, train loss=5.922622
+2017-12-29 21:00:54 INFO: 400 epoch, global step=33400, train loss=5.972690
+2017-12-29 21:01:01 INFO: 500 epoch, global step=33500, train loss=5.922382
+2017-12-29 21:01:11 INFO: 600 epoch, global step=33600, train loss=5.995434
+2017-12-29 21:01:18 INFO: 700 epoch, global step=33700, train loss=5.951261
+2017-12-29 21:01:26 INFO: 800 epoch, global step=33800, train loss=5.964889
+2017-12-29 21:01:34 INFO: 900 epoch, global step=33900, train loss=6.043068
+2017-12-29 21:01:45 INFO: 1000 epoch, global step=34000, train loss=5.892487
+2017-12-29 21:01:48 INFO: HyEpoch 34, valid loss=5.961684
+2017-12-29 21:01:57 INFO: 100 epoch, global step=34100, train loss=6.016227
+2017-12-29 21:02:03 INFO: 200 epoch, global step=34200, train loss=6.034239
+2017-12-29 21:02:12 INFO: 300 epoch, global step=34300, train loss=5.950546
+2017-12-29 21:02:18 INFO: 400 epoch, global step=34400, train loss=5.982528
+2017-12-29 21:02:26 INFO: 500 epoch, global step=34500, train loss=5.919639
+2017-12-29 21:02:32 INFO: 600 epoch, global step=34600, train loss=6.062287
+2017-12-29 21:02:42 INFO: 700 epoch, global step=34700, train loss=5.917522
+2017-12-29 21:02:49 INFO: 800 epoch, global step=34800, train loss=5.979102
+2017-12-29 21:02:56 INFO: 900 epoch, global step=34900, train loss=5.940190
+2017-12-29 21:03:03 INFO: 1000 epoch, global step=35000, train loss=5.950212
+2017-12-29 21:03:07 INFO: HyEpoch 35, valid loss=5.954253
+2017-12-29 21:03:07 INFO: 胡雁哀鸣夜夜飞 不人风不不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 21:03:07 INFO: 新秋日后晒书天 不人风不不不人<eos> |Ref:白日当松影却圆
+2017-12-29 21:03:07 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 21:03:07 INFO: 朝朝奉御临池上 不人风不不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 21:03:14 INFO: 100 epoch, global step=35100, train loss=6.066552
+2017-12-29 21:03:21 INFO: 200 epoch, global step=35200, train loss=5.961966
+2017-12-29 21:03:28 INFO: 300 epoch, global step=35300, train loss=6.062163
+2017-12-29 21:03:33 INFO: 400 epoch, global step=35400, train loss=5.930725
+2017-12-29 21:03:39 INFO: 500 epoch, global step=35500, train loss=5.936127
+2017-12-29 21:03:48 INFO: 600 epoch, global step=35600, train loss=5.885155
+2017-12-29 21:03:54 INFO: 700 epoch, global step=35700, train loss=5.974049
+2017-12-29 21:04:00 INFO: 800 epoch, global step=35800, train loss=5.932886
+2017-12-29 21:04:06 INFO: 900 epoch, global step=35900, train loss=5.900067
+2017-12-29 21:04:15 INFO: 1000 epoch, global step=36000, train loss=5.885190
+2017-12-29 21:04:18 INFO: HyEpoch 36, valid loss=5.956705
+2017-12-29 21:04:24 INFO: 100 epoch, global step=36100, train loss=5.819205
+2017-12-29 21:04:33 INFO: 200 epoch, global step=36200, train loss=5.878561
+2017-12-29 21:04:40 INFO: 300 epoch, global step=36300, train loss=6.025144
+2017-12-29 21:04:47 INFO: 400 epoch, global step=36400, train loss=5.978187
+2017-12-29 21:04:55 INFO: 500 epoch, global step=36500, train loss=5.934968
+2017-12-29 21:05:02 INFO: 600 epoch, global step=36600, train loss=5.977924
+2017-12-29 21:05:09 INFO: 700 epoch, global step=36700, train loss=5.952343
+2017-12-29 21:05:15 INFO: 800 epoch, global step=36800, train loss=6.004214
+2017-12-29 21:05:21 INFO: 900 epoch, global step=36900, train loss=5.870186
+2017-12-29 21:05:27 INFO: 1000 epoch, global step=37000, train loss=5.995661
+2017-12-29 21:05:30 INFO: HyEpoch 37, valid loss=5.952676
+2017-12-29 21:05:37 INFO: 100 epoch, global step=37100, train loss=6.002540
+2017-12-29 21:05:46 INFO: 200 epoch, global step=37200, train loss=6.035112
+2017-12-29 21:05:52 INFO: 300 epoch, global step=37300, train loss=5.987749
+2017-12-29 21:06:02 INFO: 400 epoch, global step=37400, train loss=5.904605
+2017-12-29 21:06:09 INFO: 500 epoch, global step=37500, train loss=5.959270
+2017-12-29 21:06:15 INFO: 600 epoch, global step=37600, train loss=5.867377
+2017-12-29 21:06:25 INFO: 700 epoch, global step=37700, train loss=5.991302
+2017-12-29 21:06:33 INFO: 800 epoch, global step=37800, train loss=5.929436
+2017-12-29 21:06:38 INFO: 900 epoch, global step=37900, train loss=5.953762
+2017-12-29 21:06:45 INFO: 1000 epoch, global step=38000, train loss=5.831019
+2017-12-29 21:06:48 INFO: HyEpoch 38, valid loss=5.950224
+2017-12-29 21:06:56 INFO: 100 epoch, global step=38100, train loss=5.951917
+2017-12-29 21:07:04 INFO: 200 epoch, global step=38200, train loss=6.038529
+2017-12-29 21:07:10 INFO: 300 epoch, global step=38300, train loss=6.003195
+2017-12-29 21:07:16 INFO: 400 epoch, global step=38400, train loss=5.938151
+2017-12-29 21:07:23 INFO: 500 epoch, global step=38500, train loss=6.019937
+2017-12-29 21:07:29 INFO: 600 epoch, global step=38600, train loss=5.910147
+2017-12-29 21:07:35 INFO: 700 epoch, global step=38700, train loss=5.985240
+2017-12-29 21:07:42 INFO: 800 epoch, global step=38800, train loss=6.005381
+2017-12-29 21:07:52 INFO: 900 epoch, global step=38900, train loss=5.949398
+2017-12-29 21:08:00 INFO: 1000 epoch, global step=39000, train loss=6.011518
+2017-12-29 21:08:03 INFO: HyEpoch 39, valid loss=5.942827
+2017-12-29 21:08:09 INFO: 100 epoch, global step=39100, train loss=5.852472
+2017-12-29 21:08:18 INFO: 200 epoch, global step=39200, train loss=5.883392
+2017-12-29 21:08:24 INFO: 300 epoch, global step=39300, train loss=6.057825
+2017-12-29 21:08:31 INFO: 400 epoch, global step=39400, train loss=6.011496
+2017-12-29 21:08:38 INFO: 500 epoch, global step=39500, train loss=5.991863
+2017-12-29 21:08:44 INFO: 600 epoch, global step=39600, train loss=5.914828
+2017-12-29 21:08:50 INFO: 700 epoch, global step=39700, train loss=5.929316
+2017-12-29 21:08:57 INFO: 800 epoch, global step=39800, train loss=5.917489
+2017-12-29 21:09:03 INFO: 900 epoch, global step=39900, train loss=5.889149
+2017-12-29 21:09:11 INFO: 1000 epoch, global step=40000, train loss=5.838248
+2017-12-29 21:09:13 INFO: HyEpoch 40, valid loss=5.942141
+2017-12-29 21:09:13 INFO: 胡雁哀鸣夜夜飞 不人风人不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 21:09:13 INFO: 新秋日后晒书天 不人风人不不人<eos> |Ref:白日当松影却圆
+2017-12-29 21:09:13 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 21:09:13 INFO: 朝朝奉御临池上 不人风人不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 21:09:22 INFO: BLEU=0.0007, GLEU=0.0035 |NMTSeq2seq_hs128_bs128_es128_kr0.50_mgn5.00_lr0.1000_is0.00_nl2_vs6000_bw1
+2017-12-29 21:09:29 INFO: 100 epoch, global step=40100, train loss=5.897275
+2017-12-29 21:09:37 INFO: 200 epoch, global step=40200, train loss=6.008261
+2017-12-29 21:09:45 INFO: 300 epoch, global step=40300, train loss=5.972847
+2017-12-29 21:09:53 INFO: 400 epoch, global step=40400, train loss=5.904572
+2017-12-29 21:09:59 INFO: 500 epoch, global step=40500, train loss=6.010873
+2017-12-29 21:10:06 INFO: 600 epoch, global step=40600, train loss=5.965384
+2017-12-29 21:10:13 INFO: 700 epoch, global step=40700, train loss=5.953151
+2017-12-29 21:10:19 INFO: 800 epoch, global step=40800, train loss=5.893960
+2017-12-29 21:10:26 INFO: 900 epoch, global step=40900, train loss=5.972564
+2017-12-29 21:10:31 INFO: 1000 epoch, global step=41000, train loss=5.951910
+2017-12-29 21:10:34 INFO: HyEpoch 41, valid loss=5.940185
+2017-12-29 21:10:41 INFO: 100 epoch, global step=41100, train loss=5.931012
+2017-12-29 21:10:51 INFO: 200 epoch, global step=41200, train loss=5.819179
+2017-12-29 21:10:57 INFO: 300 epoch, global step=41300, train loss=5.950531
+2017-12-29 21:11:03 INFO: 400 epoch, global step=41400, train loss=5.973136
+2017-12-29 21:11:10 INFO: 500 epoch, global step=41500, train loss=5.976541
+2017-12-29 21:11:17 INFO: 600 epoch, global step=41600, train loss=6.088342
+2017-12-29 21:11:23 INFO: 700 epoch, global step=41700, train loss=6.034879
+2017-12-29 21:11:28 INFO: 800 epoch, global step=41800, train loss=5.884208
+2017-12-29 21:11:37 INFO: 900 epoch, global step=41900, train loss=5.963658
+2017-12-29 21:11:43 INFO: 1000 epoch, global step=42000, train loss=5.946339
+2017-12-29 21:11:46 INFO: HyEpoch 42, valid loss=5.940018
+2017-12-29 21:11:55 INFO: 100 epoch, global step=42100, train loss=5.948883
+2017-12-29 21:12:02 INFO: 200 epoch, global step=42200, train loss=5.958394
+2017-12-29 21:12:10 INFO: 300 epoch, global step=42300, train loss=5.916205
+2017-12-29 21:12:17 INFO: 400 epoch, global step=42400, train loss=5.850430
+2017-12-29 21:12:25 INFO: 500 epoch, global step=42500, train loss=6.024465
+2017-12-29 21:12:31 INFO: 600 epoch, global step=42600, train loss=5.884923
+2017-12-29 21:12:40 INFO: 700 epoch, global step=42700, train loss=5.966376
+2017-12-29 21:12:47 INFO: 800 epoch, global step=42800, train loss=5.878088
+2017-12-29 21:12:53 INFO: 900 epoch, global step=42900, train loss=5.907441
+2017-12-29 21:13:01 INFO: 1000 epoch, global step=43000, train loss=5.870018
+2017-12-29 21:13:04 INFO: HyEpoch 43, valid loss=5.938085
+2017-12-29 21:13:10 INFO: 100 epoch, global step=43100, train loss=5.890037
+2017-12-29 21:13:16 INFO: 200 epoch, global step=43200, train loss=5.984608
+2017-12-29 21:13:26 INFO: 300 epoch, global step=43300, train loss=5.918383
+2017-12-29 21:13:33 INFO: 400 epoch, global step=43400, train loss=5.941484
+2017-12-29 21:13:39 INFO: 500 epoch, global step=43500, train loss=5.958395
+2017-12-29 21:13:44 INFO: 600 epoch, global step=43600, train loss=5.937877
+2017-12-29 21:13:51 INFO: 700 epoch, global step=43700, train loss=5.942593
+2017-12-29 21:14:00 INFO: 800 epoch, global step=43800, train loss=6.003330
+2017-12-29 21:14:08 INFO: 900 epoch, global step=43900, train loss=5.977347
+2017-12-29 21:14:14 INFO: 1000 epoch, global step=44000, train loss=5.967463
+2017-12-29 21:14:17 INFO: HyEpoch 44, valid loss=5.933437
+2017-12-29 21:14:24 INFO: 100 epoch, global step=44100, train loss=5.978140
+2017-12-29 21:14:31 INFO: 200 epoch, global step=44200, train loss=5.947265
+2017-12-29 21:14:38 INFO: 300 epoch, global step=44300, train loss=5.922061
+2017-12-29 21:14:43 INFO: 400 epoch, global step=44400, train loss=5.924748
+2017-12-29 21:14:50 INFO: 500 epoch, global step=44500, train loss=5.899720
+2017-12-29 21:14:58 INFO: 600 epoch, global step=44600, train loss=5.993052
+2017-12-29 21:15:04 INFO: 700 epoch, global step=44700, train loss=5.955906
+2017-12-29 21:15:11 INFO: 800 epoch, global step=44800, train loss=5.947046
+2017-12-29 21:15:18 INFO: 900 epoch, global step=44900, train loss=5.946667
+2017-12-29 21:15:24 INFO: 1000 epoch, global step=45000, train loss=6.025771
+2017-12-29 21:15:27 INFO: HyEpoch 45, valid loss=5.937438
+2017-12-29 21:15:27 INFO: 胡雁哀鸣夜夜飞 不人风人不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 21:15:27 INFO: 新秋日后晒书天 不人风人不不人<eos> |Ref:白日当松影却圆
+2017-12-29 21:15:27 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 21:15:27 INFO: 朝朝奉御临池上 不人风人不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 21:15:33 INFO: 100 epoch, global step=45100, train loss=5.908938
+2017-12-29 21:15:40 INFO: 200 epoch, global step=45200, train loss=5.972980
+2017-12-29 21:15:47 INFO: 300 epoch, global step=45300, train loss=5.914160
+2017-12-29 21:15:53 INFO: 400 epoch, global step=45400, train loss=5.743823
+2017-12-29 21:16:02 INFO: 500 epoch, global step=45500, train loss=5.945741
+2017-12-29 21:16:09 INFO: 600 epoch, global step=45600, train loss=5.854931
+2017-12-29 21:16:19 INFO: 700 epoch, global step=45700, train loss=5.903735
+2017-12-29 21:16:27 INFO: 800 epoch, global step=45800, train loss=6.001969
+2017-12-29 21:16:35 INFO: 900 epoch, global step=45900, train loss=5.823606
+2017-12-29 21:16:43 INFO: 1000 epoch, global step=46000, train loss=5.879330
+2017-12-29 21:16:47 INFO: HyEpoch 46, valid loss=5.931461
+2017-12-29 21:16:54 INFO: 100 epoch, global step=46100, train loss=5.945958
+2017-12-29 21:17:01 INFO: 200 epoch, global step=46200, train loss=5.887499
+2017-12-29 21:17:07 INFO: 300 epoch, global step=46300, train loss=5.953188
+2017-12-29 21:17:14 INFO: 400 epoch, global step=46400, train loss=5.954958
+2017-12-29 21:17:20 INFO: 500 epoch, global step=46500, train loss=6.002972
+2017-12-29 21:17:26 INFO: 600 epoch, global step=46600, train loss=5.893648
+2017-12-29 21:17:34 INFO: 700 epoch, global step=46700, train loss=5.930835
+2017-12-29 21:17:43 INFO: 800 epoch, global step=46800, train loss=5.949568
+2017-12-29 21:17:50 INFO: 900 epoch, global step=46900, train loss=5.889219
+2017-12-29 21:17:57 INFO: 1000 epoch, global step=47000, train loss=5.966302
+2017-12-29 21:18:00 INFO: HyEpoch 47, valid loss=5.931587
+2017-12-29 21:18:10 INFO: 100 epoch, global step=47100, train loss=5.965764
+2017-12-29 21:18:16 INFO: 200 epoch, global step=47200, train loss=6.045285
+2017-12-29 21:18:23 INFO: 300 epoch, global step=47300, train loss=5.912898
+2017-12-29 21:18:31 INFO: 400 epoch, global step=47400, train loss=5.959511
+2017-12-29 21:18:37 INFO: 500 epoch, global step=47500, train loss=5.914655
+2017-12-29 21:18:44 INFO: 600 epoch, global step=47600, train loss=5.971821
+2017-12-29 21:18:51 INFO: 700 epoch, global step=47700, train loss=5.900809
+2017-12-29 21:18:58 INFO: 800 epoch, global step=47800, train loss=5.994791
+2017-12-29 21:19:05 INFO: 900 epoch, global step=47900, train loss=5.918513
+2017-12-29 21:19:12 INFO: 1000 epoch, global step=48000, train loss=6.009743
+2017-12-29 21:19:14 INFO: HyEpoch 48, valid loss=5.928475
+2017-12-29 21:19:20 INFO: 100 epoch, global step=48100, train loss=5.993700
+2017-12-29 21:19:28 INFO: 200 epoch, global step=48200, train loss=5.944474
+2017-12-29 21:19:34 INFO: 300 epoch, global step=48300, train loss=5.884731
+2017-12-29 21:19:47 INFO: 400 epoch, global step=48400, train loss=5.859524
+2017-12-29 21:19:54 INFO: 500 epoch, global step=48500, train loss=5.988868
+2017-12-29 21:20:02 INFO: 600 epoch, global step=48600, train loss=5.835667
+2017-12-29 21:20:10 INFO: 700 epoch, global step=48700, train loss=5.994287
+2017-12-29 21:20:17 INFO: 800 epoch, global step=48800, train loss=6.067216
+2017-12-29 21:20:26 INFO: 900 epoch, global step=48900, train loss=6.007962
+2017-12-29 21:20:32 INFO: 1000 epoch, global step=49000, train loss=5.982867
+2017-12-29 21:20:35 INFO: HyEpoch 49, valid loss=5.929539
+2017-12-29 21:20:42 INFO: 100 epoch, global step=49100, train loss=5.910426
+2017-12-29 21:20:49 INFO: 200 epoch, global step=49200, train loss=5.900798
+2017-12-29 21:20:56 INFO: 300 epoch, global step=49300, train loss=6.019804
+2017-12-29 21:21:04 INFO: 400 epoch, global step=49400, train loss=5.944429
+2017-12-29 21:21:10 INFO: 500 epoch, global step=49500, train loss=5.854712
+2017-12-29 21:21:17 INFO: 600 epoch, global step=49600, train loss=5.970650
+2017-12-29 21:21:23 INFO: 700 epoch, global step=49700, train loss=5.966966
+2017-12-29 21:21:29 INFO: 800 epoch, global step=49800, train loss=5.947852
+2017-12-29 21:21:35 INFO: 900 epoch, global step=49900, train loss=5.909598
+2017-12-29 21:21:42 INFO: 1000 epoch, global step=50000, train loss=5.904945
+2017-12-29 21:21:45 INFO: HyEpoch 50, valid loss=5.927950
+2017-12-29 21:21:45 INFO: 胡雁哀鸣夜夜飞 不人人人不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 21:21:45 INFO: 新秋日后晒书天 不人人人不不人<eos> |Ref:白日当松影却圆
+2017-12-29 21:21:45 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 21:21:45 INFO: 朝朝奉御临池上 不人人人不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 21:21:45 INFO: Learning Rate=0.050000
+2017-12-29 21:21:51 INFO: 100 epoch, global step=50100, train loss=5.994886
+2017-12-29 21:21:58 INFO: 200 epoch, global step=50200, train loss=5.888549
+2017-12-29 21:22:07 INFO: 300 epoch, global step=50300, train loss=5.942504
+2017-12-29 21:22:14 INFO: 400 epoch, global step=50400, train loss=5.858644
+2017-12-29 21:22:21 INFO: 500 epoch, global step=50500, train loss=6.088256
+2017-12-29 21:22:28 INFO: 600 epoch, global step=50600, train loss=5.884583
+2017-12-29 21:22:35 INFO: 700 epoch, global step=50700, train loss=5.935552
+2017-12-29 21:22:41 INFO: 800 epoch, global step=50800, train loss=5.944709
+2017-12-29 21:22:49 INFO: 900 epoch, global step=50900, train loss=6.066636
+2017-12-29 21:22:55 INFO: 1000 epoch, global step=51000, train loss=5.956746
+2017-12-29 21:22:59 INFO: HyEpoch 51, valid loss=5.923064
+2017-12-29 21:23:06 INFO: 100 epoch, global step=51100, train loss=5.927596
+2017-12-29 21:23:12 INFO: 200 epoch, global step=51200, train loss=6.010644
+2017-12-29 21:23:18 INFO: 300 epoch, global step=51300, train loss=6.098947
+2017-12-29 21:23:30 INFO: 400 epoch, global step=51400, train loss=6.221998
+2017-12-29 21:23:37 INFO: 500 epoch, global step=51500, train loss=5.894565
+2017-12-29 21:23:43 INFO: 600 epoch, global step=51600, train loss=5.958535
+2017-12-29 21:23:51 INFO: 700 epoch, global step=51700, train loss=6.020898
+2017-12-29 21:23:57 INFO: 800 epoch, global step=51800, train loss=6.052928
+2017-12-29 21:24:04 INFO: 900 epoch, global step=51900, train loss=5.917132
+2017-12-29 21:24:11 INFO: 1000 epoch, global step=52000, train loss=5.935261
+2017-12-29 21:24:14 INFO: HyEpoch 52, valid loss=5.923505
+2017-12-29 21:24:20 INFO: 100 epoch, global step=52100, train loss=5.925798
+2017-12-29 21:24:26 INFO: 200 epoch, global step=52200, train loss=5.825603
+2017-12-29 21:24:34 INFO: 300 epoch, global step=52300, train loss=5.965956
+2017-12-29 21:24:40 INFO: 400 epoch, global step=52400, train loss=5.883692
+2017-12-29 21:24:46 INFO: 500 epoch, global step=52500, train loss=6.057775
+2017-12-29 21:24:52 INFO: 600 epoch, global step=52600, train loss=5.890835
+2017-12-29 21:24:59 INFO: 700 epoch, global step=52700, train loss=5.904772
+2017-12-29 21:25:04 INFO: 800 epoch, global step=52800, train loss=5.991932
+2017-12-29 21:25:10 INFO: 900 epoch, global step=52900, train loss=5.951271
+2017-12-29 21:25:16 INFO: 1000 epoch, global step=53000, train loss=5.950104
+2017-12-29 21:25:19 INFO: HyEpoch 53, valid loss=5.921387
+2017-12-29 21:25:26 INFO: 100 epoch, global step=53100, train loss=5.967499
+2017-12-29 21:25:33 INFO: 200 epoch, global step=53200, train loss=5.881519
+2017-12-29 21:25:40 INFO: 300 epoch, global step=53300, train loss=5.891092
+2017-12-29 21:25:47 INFO: 400 epoch, global step=53400, train loss=6.021969
+2017-12-29 21:25:54 INFO: 500 epoch, global step=53500, train loss=5.963588
+2017-12-29 21:26:03 INFO: 600 epoch, global step=53600, train loss=6.031613
+2017-12-29 21:26:11 INFO: 700 epoch, global step=53700, train loss=5.907514
+2017-12-29 21:26:20 INFO: 800 epoch, global step=53800, train loss=5.875110
+2017-12-29 21:26:26 INFO: 900 epoch, global step=53900, train loss=5.925048
+2017-12-29 21:26:37 INFO: 1000 epoch, global step=54000, train loss=5.875048
+2017-12-29 21:26:40 INFO: HyEpoch 54, valid loss=5.926280
+2017-12-29 21:26:49 INFO: 100 epoch, global step=54100, train loss=5.978706
+2017-12-29 21:26:56 INFO: 200 epoch, global step=54200, train loss=5.947180
+2017-12-29 21:27:03 INFO: 300 epoch, global step=54300, train loss=6.105067
+2017-12-29 21:27:11 INFO: 400 epoch, global step=54400, train loss=5.945233
+2017-12-29 21:27:19 INFO: 500 epoch, global step=54500, train loss=5.999249
+2017-12-29 21:27:26 INFO: 600 epoch, global step=54600, train loss=5.931336
+2017-12-29 21:27:33 INFO: 700 epoch, global step=54700, train loss=5.965044
+2017-12-29 21:27:40 INFO: 800 epoch, global step=54800, train loss=5.974869
+2017-12-29 21:27:48 INFO: 900 epoch, global step=54900, train loss=5.805230
+2017-12-29 21:27:55 INFO: 1000 epoch, global step=55000, train loss=6.058993
+2017-12-29 21:27:58 INFO: HyEpoch 55, valid loss=5.926402
+2017-12-29 21:27:58 INFO: 胡雁哀鸣夜夜飞 不人无人不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 21:27:58 INFO: 新秋日后晒书天 不人无人不不人<eos> |Ref:白日当松影却圆
+2017-12-29 21:27:58 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 21:27:58 INFO: 朝朝奉御临池上 不人无人不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 21:28:04 INFO: 100 epoch, global step=55100, train loss=5.943442
+2017-12-29 21:28:13 INFO: 200 epoch, global step=55200, train loss=5.938164
+2017-12-29 21:28:19 INFO: 300 epoch, global step=55300, train loss=5.919909
+2017-12-29 21:28:25 INFO: 400 epoch, global step=55400, train loss=5.815750
+2017-12-29 21:28:34 INFO: 500 epoch, global step=55500, train loss=5.843273
+2017-12-29 21:28:41 INFO: 600 epoch, global step=55600, train loss=5.844129
+2017-12-29 21:28:51 INFO: 700 epoch, global step=55700, train loss=5.887167
+2017-12-29 21:29:02 INFO: 800 epoch, global step=55800, train loss=5.948752
+2017-12-29 21:29:10 INFO: 900 epoch, global step=55900, train loss=5.907884
+2017-12-29 21:29:16 INFO: 1000 epoch, global step=56000, train loss=5.906181
+2017-12-29 21:29:19 INFO: HyEpoch 56, valid loss=5.924781
+2017-12-29 21:29:29 INFO: 100 epoch, global step=56100, train loss=5.911150
+2017-12-29 21:29:35 INFO: 200 epoch, global step=56200, train loss=5.977630
+2017-12-29 21:29:43 INFO: 300 epoch, global step=56300, train loss=5.926164
+2017-12-29 21:29:49 INFO: 400 epoch, global step=56400, train loss=5.808522
+2017-12-29 21:29:54 INFO: 500 epoch, global step=56500, train loss=5.951856
+2017-12-29 21:30:02 INFO: 600 epoch, global step=56600, train loss=5.991471
+2017-12-29 21:30:09 INFO: 700 epoch, global step=56700, train loss=5.872777
+2017-12-29 21:30:16 INFO: 800 epoch, global step=56800, train loss=5.939936
+2017-12-29 21:30:23 INFO: 900 epoch, global step=56900, train loss=5.939792
+2017-12-29 21:30:30 INFO: 1000 epoch, global step=57000, train loss=5.943129
+2017-12-29 21:30:34 INFO: HyEpoch 57, valid loss=5.923041
+2017-12-29 21:30:41 INFO: 100 epoch, global step=57100, train loss=5.949726
+2017-12-29 21:30:50 INFO: 200 epoch, global step=57200, train loss=5.958642
+2017-12-29 21:30:57 INFO: 300 epoch, global step=57300, train loss=5.918701
+2017-12-29 21:31:07 INFO: 400 epoch, global step=57400, train loss=5.851106
+2017-12-29 21:31:17 INFO: 500 epoch, global step=57500, train loss=5.861051
+2017-12-29 21:31:23 INFO: 600 epoch, global step=57600, train loss=5.899125
+2017-12-29 21:31:30 INFO: 700 epoch, global step=57700, train loss=5.908532
+2017-12-29 21:31:39 INFO: 800 epoch, global step=57800, train loss=5.910293
+2017-12-29 21:31:45 INFO: 900 epoch, global step=57900, train loss=6.004998
+2017-12-29 21:31:53 INFO: 1000 epoch, global step=58000, train loss=5.929043
+2017-12-29 21:31:57 INFO: HyEpoch 58, valid loss=5.926552
+2017-12-29 21:32:03 INFO: 100 epoch, global step=58100, train loss=5.943731
+2017-12-29 21:32:15 INFO: 200 epoch, global step=58200, train loss=5.967527
+2017-12-29 21:32:21 INFO: 300 epoch, global step=58300, train loss=5.942575
+2017-12-29 21:32:28 INFO: 400 epoch, global step=58400, train loss=5.925105
+2017-12-29 21:32:35 INFO: 500 epoch, global step=58500, train loss=6.026819
+2017-12-29 21:32:43 INFO: 600 epoch, global step=58600, train loss=5.953695
+2017-12-29 21:32:50 INFO: 700 epoch, global step=58700, train loss=6.053913
+2017-12-29 21:32:56 INFO: 800 epoch, global step=58800, train loss=5.956928
+2017-12-29 21:33:02 INFO: 900 epoch, global step=58900, train loss=5.917078
+2017-12-29 21:33:09 INFO: 1000 epoch, global step=59000, train loss=5.854225
+2017-12-29 21:33:12 INFO: HyEpoch 59, valid loss=5.922822
+2017-12-29 21:33:20 INFO: 100 epoch, global step=59100, train loss=5.935968
+2017-12-29 21:33:27 INFO: 200 epoch, global step=59200, train loss=6.001046
+2017-12-29 21:33:35 INFO: 300 epoch, global step=59300, train loss=5.856314
+2017-12-29 21:33:47 INFO: 400 epoch, global step=59400, train loss=5.871298
+2017-12-29 21:33:54 INFO: 500 epoch, global step=59500, train loss=5.953240
+2017-12-29 21:34:04 INFO: 600 epoch, global step=59600, train loss=5.904633
+2017-12-29 21:34:12 INFO: 700 epoch, global step=59700, train loss=6.036431
+2017-12-29 21:34:18 INFO: 800 epoch, global step=59800, train loss=5.980651
+2017-12-29 21:34:30 INFO: 900 epoch, global step=59900, train loss=6.053945
+2017-12-29 21:34:42 INFO: 1000 epoch, global step=60000, train loss=5.903466
+2017-12-29 21:34:46 INFO: HyEpoch 60, valid loss=5.922928
+2017-12-29 21:34:46 INFO: 胡雁哀鸣夜夜飞 不人无人不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 21:34:46 INFO: 新秋日后晒书天 不人无人不不人<eos> |Ref:白日当松影却圆
+2017-12-29 21:34:46 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 21:34:46 INFO: 朝朝奉御临池上 不人无人不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 21:35:10 INFO: BLEU=0.0009, GLEU=0.0035 |NMTSeq2seq_hs128_bs128_es128_kr0.50_mgn5.00_lr0.1000_is0.00_nl2_vs6000_bw1
+2017-12-29 21:35:17 INFO: 100 epoch, global step=60100, train loss=5.955386
+2017-12-29 21:35:24 INFO: 200 epoch, global step=60200, train loss=5.865453
+2017-12-29 21:35:32 INFO: 300 epoch, global step=60300, train loss=5.984605
+2017-12-29 21:35:39 INFO: 400 epoch, global step=60400, train loss=5.900179
+2017-12-29 21:35:47 INFO: 500 epoch, global step=60500, train loss=5.928411
+2017-12-29 21:35:54 INFO: 600 epoch, global step=60600, train loss=5.951124
+2017-12-29 21:36:01 INFO: 700 epoch, global step=60700, train loss=5.833409
+2017-12-29 21:36:09 INFO: 800 epoch, global step=60800, train loss=6.020269
+2017-12-29 21:36:16 INFO: 900 epoch, global step=60900, train loss=5.959860
+2017-12-29 21:36:23 INFO: 1000 epoch, global step=61000, train loss=6.034156
+2017-12-29 21:36:26 INFO: HyEpoch 61, valid loss=5.917406
+2017-12-29 21:36:32 INFO: 100 epoch, global step=61100, train loss=5.970958
+2017-12-29 21:36:37 INFO: 200 epoch, global step=61200, train loss=5.929917
+2017-12-29 21:36:43 INFO: 300 epoch, global step=61300, train loss=5.948115
+2017-12-29 21:36:49 INFO: 400 epoch, global step=61400, train loss=5.864313
+2017-12-29 21:36:56 INFO: 500 epoch, global step=61500, train loss=5.857269
+2017-12-29 21:37:02 INFO: 600 epoch, global step=61600, train loss=5.908430
+2017-12-29 21:37:11 INFO: 700 epoch, global step=61700, train loss=5.975732
+2017-12-29 21:37:18 INFO: 800 epoch, global step=61800, train loss=6.004649
+2017-12-29 21:37:24 INFO: 900 epoch, global step=61900, train loss=5.919243
+2017-12-29 21:37:36 INFO: 1000 epoch, global step=62000, train loss=5.964581
+2017-12-29 21:37:39 INFO: HyEpoch 62, valid loss=5.922595
+2017-12-29 21:37:46 INFO: 100 epoch, global step=62100, train loss=5.850865
+2017-12-29 21:37:53 INFO: 200 epoch, global step=62200, train loss=5.911988
+2017-12-29 21:38:00 INFO: 300 epoch, global step=62300, train loss=5.842277
+2017-12-29 21:38:06 INFO: 400 epoch, global step=62400, train loss=5.996006
+2017-12-29 21:38:13 INFO: 500 epoch, global step=62500, train loss=6.097322
+2017-12-29 21:38:20 INFO: 600 epoch, global step=62600, train loss=5.932252
+2017-12-29 21:38:27 INFO: 700 epoch, global step=62700, train loss=5.964969
+2017-12-29 21:38:40 INFO: 800 epoch, global step=62800, train loss=5.998086
+2017-12-29 21:38:52 INFO: 900 epoch, global step=62900, train loss=5.882626
+2017-12-29 21:38:59 INFO: 1000 epoch, global step=63000, train loss=5.996938
+2017-12-29 21:39:02 INFO: HyEpoch 63, valid loss=5.919881
+2017-12-29 21:39:08 INFO: 100 epoch, global step=63100, train loss=6.013247
+2017-12-29 21:39:14 INFO: 200 epoch, global step=63200, train loss=6.019898
+2017-12-29 21:39:21 INFO: 300 epoch, global step=63300, train loss=5.921395
+2017-12-29 21:39:28 INFO: 400 epoch, global step=63400, train loss=5.882756
+2017-12-29 21:39:37 INFO: 500 epoch, global step=63500, train loss=5.944693
+2017-12-29 21:39:47 INFO: 600 epoch, global step=63600, train loss=5.963267
+2017-12-29 21:39:53 INFO: 700 epoch, global step=63700, train loss=5.846767
+2017-12-29 21:40:00 INFO: 800 epoch, global step=63800, train loss=5.887003
+2017-12-29 21:40:07 INFO: 900 epoch, global step=63900, train loss=5.868069
+2017-12-29 21:40:13 INFO: 1000 epoch, global step=64000, train loss=5.950433
+2017-12-29 21:40:17 INFO: HyEpoch 64, valid loss=5.918182
+2017-12-29 21:40:26 INFO: 100 epoch, global step=64100, train loss=5.848228
+2017-12-29 21:40:34 INFO: 200 epoch, global step=64200, train loss=5.926608
+2017-12-29 21:40:43 INFO: 300 epoch, global step=64300, train loss=6.001060
+2017-12-29 21:40:51 INFO: 400 epoch, global step=64400, train loss=5.899292
+2017-12-29 21:40:58 INFO: 500 epoch, global step=64500, train loss=5.920271
+2017-12-29 21:41:06 INFO: 600 epoch, global step=64600, train loss=6.021544
+2017-12-29 21:41:14 INFO: 700 epoch, global step=64700, train loss=5.979500
+2017-12-29 21:41:23 INFO: 800 epoch, global step=64800, train loss=5.929943
+2017-12-29 21:41:29 INFO: 900 epoch, global step=64900, train loss=5.977032
+2017-12-29 21:41:35 INFO: 1000 epoch, global step=65000, train loss=5.929948
+2017-12-29 21:41:37 INFO: HyEpoch 65, valid loss=5.919373
+2017-12-29 21:41:37 INFO: 胡雁哀鸣夜夜飞 不人无人不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 21:41:37 INFO: 新秋日后晒书天 不人无人不不人<eos> |Ref:白日当松影却圆
+2017-12-29 21:41:37 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 21:41:37 INFO: 朝朝奉御临池上 不人无人不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 21:41:45 INFO: 100 epoch, global step=65100, train loss=5.967394
+2017-12-29 21:41:52 INFO: 200 epoch, global step=65200, train loss=5.861270
+2017-12-29 21:42:05 INFO: 300 epoch, global step=65300, train loss=5.829011
+2017-12-29 21:42:12 INFO: 400 epoch, global step=65400, train loss=6.010066
+2017-12-29 21:42:18 INFO: 500 epoch, global step=65500, train loss=5.937329
+2017-12-29 21:42:26 INFO: 600 epoch, global step=65600, train loss=6.100546
+2017-12-29 21:42:34 INFO: 700 epoch, global step=65700, train loss=5.981558
+2017-12-29 21:42:40 INFO: 800 epoch, global step=65800, train loss=5.918283
+2017-12-29 21:42:45 INFO: 900 epoch, global step=65900, train loss=5.906067
+2017-12-29 21:42:55 INFO: 1000 epoch, global step=66000, train loss=5.938002
+2017-12-29 21:42:58 INFO: HyEpoch 66, valid loss=5.920655
+2017-12-29 21:43:05 INFO: 100 epoch, global step=66100, train loss=5.921322
+2017-12-29 21:43:14 INFO: 200 epoch, global step=66200, train loss=5.921032
+2017-12-29 21:43:22 INFO: 300 epoch, global step=66300, train loss=5.935817
+2017-12-29 21:43:32 INFO: 400 epoch, global step=66400, train loss=5.930810
+2017-12-29 21:43:39 INFO: 500 epoch, global step=66500, train loss=5.932716
+2017-12-29 21:43:46 INFO: 600 epoch, global step=66600, train loss=5.918005
+2017-12-29 21:43:53 INFO: 700 epoch, global step=66700, train loss=5.976918
+2017-12-29 21:44:01 INFO: 800 epoch, global step=66800, train loss=6.027883
+2017-12-29 21:44:08 INFO: 900 epoch, global step=66900, train loss=5.941877
+2017-12-29 21:44:15 INFO: 1000 epoch, global step=67000, train loss=5.936546
+2017-12-29 21:44:19 INFO: HyEpoch 67, valid loss=5.918587
+2017-12-29 21:44:25 INFO: 100 epoch, global step=67100, train loss=5.949670
+2017-12-29 21:44:32 INFO: 200 epoch, global step=67200, train loss=5.945155
+2017-12-29 21:44:41 INFO: 300 epoch, global step=67300, train loss=5.883082
+2017-12-29 21:44:49 INFO: 400 epoch, global step=67400, train loss=5.845966
+2017-12-29 21:44:57 INFO: 500 epoch, global step=67500, train loss=5.757885
+2017-12-29 21:45:06 INFO: 600 epoch, global step=67600, train loss=5.956905
+2017-12-29 21:45:12 INFO: 700 epoch, global step=67700, train loss=5.978354
+2017-12-29 21:45:22 INFO: 800 epoch, global step=67800, train loss=5.973669
+2017-12-29 21:45:32 INFO: 900 epoch, global step=67900, train loss=5.892027
+2017-12-29 21:45:40 INFO: 1000 epoch, global step=68000, train loss=5.875704
+2017-12-29 21:45:42 INFO: HyEpoch 68, valid loss=5.918842
+2017-12-29 21:45:49 INFO: 100 epoch, global step=68100, train loss=5.956063
+2017-12-29 21:45:57 INFO: 200 epoch, global step=68200, train loss=5.960536
+2017-12-29 21:46:03 INFO: 300 epoch, global step=68300, train loss=5.886527
+2017-12-29 21:46:09 INFO: 400 epoch, global step=68400, train loss=5.932629
+2017-12-29 21:46:16 INFO: 500 epoch, global step=68500, train loss=5.851642
+2017-12-29 21:46:26 INFO: 600 epoch, global step=68600, train loss=5.938462
+2017-12-29 21:46:33 INFO: 700 epoch, global step=68700, train loss=5.950401
+2017-12-29 21:46:39 INFO: 800 epoch, global step=68800, train loss=5.927591
+2017-12-29 21:46:46 INFO: 900 epoch, global step=68900, train loss=6.006068
+2017-12-29 21:46:53 INFO: 1000 epoch, global step=69000, train loss=5.851974
+2017-12-29 21:46:56 INFO: HyEpoch 69, valid loss=5.917194
+2017-12-29 21:47:02 INFO: 100 epoch, global step=69100, train loss=5.949069
+2017-12-29 21:47:09 INFO: 200 epoch, global step=69200, train loss=5.980711
+2017-12-29 21:47:15 INFO: 300 epoch, global step=69300, train loss=6.003869
+2017-12-29 21:47:23 INFO: 400 epoch, global step=69400, train loss=5.916076
+2017-12-29 21:47:33 INFO: 500 epoch, global step=69500, train loss=5.827987
+2017-12-29 21:47:41 INFO: 600 epoch, global step=69600, train loss=5.811464
+2017-12-29 21:47:52 INFO: 700 epoch, global step=69700, train loss=5.947124
+2017-12-29 21:48:00 INFO: 800 epoch, global step=69800, train loss=5.840710
+2017-12-29 21:48:07 INFO: 900 epoch, global step=69900, train loss=5.977099
+2017-12-29 21:48:15 INFO: 1000 epoch, global step=70000, train loss=5.964476
+2017-12-29 21:48:19 INFO: HyEpoch 70, valid loss=5.920260
+2017-12-29 21:48:19 INFO: 胡雁哀鸣夜夜飞 不人无人不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 21:48:19 INFO: 新秋日后晒书天 不人无人不不人<eos> |Ref:白日当松影却圆
+2017-12-29 21:48:19 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 21:48:19 INFO: 朝朝奉御临池上 不人无人不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 21:48:26 INFO: 100 epoch, global step=70100, train loss=5.927057
+2017-12-29 21:48:33 INFO: 200 epoch, global step=70200, train loss=5.921286
+2017-12-29 21:48:40 INFO: 300 epoch, global step=70300, train loss=5.901711
+2017-12-29 21:48:46 INFO: 400 epoch, global step=70400, train loss=5.900402
+2017-12-29 21:48:52 INFO: 500 epoch, global step=70500, train loss=5.952744
+2017-12-29 21:49:02 INFO: 600 epoch, global step=70600, train loss=5.913423
+2017-12-29 21:49:09 INFO: 700 epoch, global step=70700, train loss=5.934227
+2017-12-29 21:49:17 INFO: 800 epoch, global step=70800, train loss=5.908000
+2017-12-29 21:49:25 INFO: 900 epoch, global step=70900, train loss=5.936668
+2017-12-29 21:49:37 INFO: 1000 epoch, global step=71000, train loss=5.942664
+2017-12-29 21:49:40 INFO: HyEpoch 71, valid loss=5.913658
+2017-12-29 21:49:48 INFO: 100 epoch, global step=71100, train loss=5.998188
+2017-12-29 21:49:54 INFO: 200 epoch, global step=71200, train loss=5.852607
+2017-12-29 21:50:00 INFO: 300 epoch, global step=71300, train loss=5.928668
+2017-12-29 21:50:06 INFO: 400 epoch, global step=71400, train loss=5.935682
+2017-12-29 21:50:11 INFO: 500 epoch, global step=71500, train loss=5.958784
+2017-12-29 21:50:17 INFO: 600 epoch, global step=71600, train loss=5.891374
+2017-12-29 21:50:26 INFO: 700 epoch, global step=71700, train loss=5.952338
+2017-12-29 21:50:36 INFO: 800 epoch, global step=71800, train loss=6.061247
+2017-12-29 21:50:45 INFO: 900 epoch, global step=71900, train loss=5.823286
+2017-12-29 21:50:52 INFO: 1000 epoch, global step=72000, train loss=5.952157
+2017-12-29 21:50:55 INFO: HyEpoch 72, valid loss=5.920585
+2017-12-29 21:51:02 INFO: 100 epoch, global step=72100, train loss=5.914406
+2017-12-29 21:51:09 INFO: 200 epoch, global step=72200, train loss=6.018595
+2017-12-29 21:51:16 INFO: 300 epoch, global step=72300, train loss=5.922335
+2017-12-29 21:51:23 INFO: 400 epoch, global step=72400, train loss=5.977232
+2017-12-29 21:51:30 INFO: 500 epoch, global step=72500, train loss=5.996143
+2017-12-29 21:51:38 INFO: 600 epoch, global step=72600, train loss=6.023282
+2017-12-29 21:51:45 INFO: 700 epoch, global step=72700, train loss=5.971846
+2017-12-29 21:51:53 INFO: 800 epoch, global step=72800, train loss=5.890830
+2017-12-29 21:52:01 INFO: 900 epoch, global step=72900, train loss=5.827261
+2017-12-29 21:52:09 INFO: 1000 epoch, global step=73000, train loss=5.946842
+2017-12-29 21:52:12 INFO: HyEpoch 73, valid loss=5.917392
+2017-12-29 21:52:18 INFO: 100 epoch, global step=73100, train loss=6.060936
+2017-12-29 21:52:23 INFO: 200 epoch, global step=73200, train loss=5.961578
+2017-12-29 21:52:31 INFO: 300 epoch, global step=73300, train loss=6.041578
+2017-12-29 21:52:37 INFO: 400 epoch, global step=73400, train loss=5.933020
+2017-12-29 21:52:43 INFO: 500 epoch, global step=73500, train loss=5.983270
+2017-12-29 21:52:49 INFO: 600 epoch, global step=73600, train loss=5.954140
+2017-12-29 21:52:56 INFO: 700 epoch, global step=73700, train loss=5.966191
+2017-12-29 21:53:02 INFO: 800 epoch, global step=73800, train loss=5.904771
+2017-12-29 21:53:11 INFO: 900 epoch, global step=73900, train loss=5.939237
+2017-12-29 21:53:20 INFO: 1000 epoch, global step=74000, train loss=5.895488
+2017-12-29 21:53:22 INFO: HyEpoch 74, valid loss=5.917743
+2017-12-29 21:53:30 INFO: 100 epoch, global step=74100, train loss=5.873263
+2017-12-29 21:53:36 INFO: 200 epoch, global step=74200, train loss=5.848920
+2017-12-29 21:53:46 INFO: 300 epoch, global step=74300, train loss=5.922428
+2017-12-29 21:53:54 INFO: 400 epoch, global step=74400, train loss=6.011538
+2017-12-29 21:54:00 INFO: 500 epoch, global step=74500, train loss=5.855010
+2017-12-29 21:54:06 INFO: 600 epoch, global step=74600, train loss=5.994909
+2017-12-29 21:54:13 INFO: 700 epoch, global step=74700, train loss=6.009113
+2017-12-29 21:54:20 INFO: 800 epoch, global step=74800, train loss=5.940457
+2017-12-29 21:54:29 INFO: 900 epoch, global step=74900, train loss=6.068806
+2017-12-29 21:54:35 INFO: 1000 epoch, global step=75000, train loss=5.939609
+2017-12-29 21:54:38 INFO: HyEpoch 75, valid loss=5.914274
+2017-12-29 21:54:38 INFO: 胡雁哀鸣夜夜飞 一人无人不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 21:54:38 INFO: 新秋日后晒书天 一人无人不不人<eos> |Ref:白日当松影却圆
+2017-12-29 21:54:38 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 21:54:38 INFO: 朝朝奉御临池上 一人无人不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 21:54:44 INFO: 100 epoch, global step=75100, train loss=5.863229
+2017-12-29 21:54:52 INFO: 200 epoch, global step=75200, train loss=5.938861
+2017-12-29 21:54:59 INFO: 300 epoch, global step=75300, train loss=5.969905
+2017-12-29 21:55:08 INFO: 400 epoch, global step=75400, train loss=5.876516
+2017-12-29 21:55:19 INFO: 500 epoch, global step=75500, train loss=5.884622
+2017-12-29 21:55:26 INFO: 600 epoch, global step=75600, train loss=5.931944
+2017-12-29 21:55:39 INFO: 700 epoch, global step=75700, train loss=5.868604
+2017-12-29 21:55:46 INFO: 800 epoch, global step=75800, train loss=6.013839
+2017-12-29 21:55:53 INFO: 900 epoch, global step=75900, train loss=5.952055
+2017-12-29 21:56:01 INFO: 1000 epoch, global step=76000, train loss=6.075937
+2017-12-29 21:56:04 INFO: HyEpoch 76, valid loss=5.912949
+2017-12-29 21:56:12 INFO: 100 epoch, global step=76100, train loss=5.873742
+2017-12-29 21:56:19 INFO: 200 epoch, global step=76200, train loss=5.946305
+2017-12-29 21:56:25 INFO: 300 epoch, global step=76300, train loss=5.924728
+2017-12-29 21:56:31 INFO: 400 epoch, global step=76400, train loss=6.000070
+2017-12-29 21:56:39 INFO: 500 epoch, global step=76500, train loss=5.822443
+2017-12-29 21:56:45 INFO: 600 epoch, global step=76600, train loss=5.918036
+2017-12-29 21:56:53 INFO: 700 epoch, global step=76700, train loss=5.859340
+2017-12-29 21:57:01 INFO: 800 epoch, global step=76800, train loss=5.908004
+2017-12-29 21:57:08 INFO: 900 epoch, global step=76900, train loss=5.998374
+2017-12-29 21:57:16 INFO: 1000 epoch, global step=77000, train loss=5.980719
+2017-12-29 21:57:19 INFO: HyEpoch 77, valid loss=5.915447
+2017-12-29 21:57:24 INFO: 100 epoch, global step=77100, train loss=5.975220
+2017-12-29 21:57:32 INFO: 200 epoch, global step=77200, train loss=6.017319
+2017-12-29 21:57:38 INFO: 300 epoch, global step=77300, train loss=5.910590
+2017-12-29 21:57:46 INFO: 400 epoch, global step=77400, train loss=5.880084
+2017-12-29 21:57:55 INFO: 500 epoch, global step=77500, train loss=5.932028
+2017-12-29 21:58:01 INFO: 600 epoch, global step=77600, train loss=5.947218
+2017-12-29 21:58:08 INFO: 700 epoch, global step=77700, train loss=5.864406
+2017-12-29 21:58:14 INFO: 800 epoch, global step=77800, train loss=5.960208
+2017-12-29 21:58:20 INFO: 900 epoch, global step=77900, train loss=5.907656
+2017-12-29 21:58:28 INFO: 1000 epoch, global step=78000, train loss=5.811218
+2017-12-29 21:58:30 INFO: HyEpoch 78, valid loss=5.914873
+2017-12-29 21:58:37 INFO: 100 epoch, global step=78100, train loss=5.928363
+2017-12-29 21:58:42 INFO: 200 epoch, global step=78200, train loss=5.971112
+2017-12-29 21:58:49 INFO: 300 epoch, global step=78300, train loss=5.856233
+2017-12-29 21:58:57 INFO: 400 epoch, global step=78400, train loss=5.983065
+2017-12-29 21:59:03 INFO: 500 epoch, global step=78500, train loss=5.879440
+2017-12-29 21:59:11 INFO: 600 epoch, global step=78600, train loss=6.040394
+2017-12-29 21:59:18 INFO: 700 epoch, global step=78700, train loss=5.907680
+2017-12-29 21:59:24 INFO: 800 epoch, global step=78800, train loss=5.795007
+2017-12-29 21:59:30 INFO: 900 epoch, global step=78900, train loss=5.933876
+2017-12-29 21:59:36 INFO: 1000 epoch, global step=79000, train loss=5.896162
+2017-12-29 21:59:39 INFO: HyEpoch 79, valid loss=5.914465
+2017-12-29 21:59:48 INFO: 100 epoch, global step=79100, train loss=5.841170
+2017-12-29 21:59:55 INFO: 200 epoch, global step=79200, train loss=5.945693
+2017-12-29 22:00:02 INFO: 300 epoch, global step=79300, train loss=5.949170
+2017-12-29 22:00:09 INFO: 400 epoch, global step=79400, train loss=5.872469
+2017-12-29 22:00:16 INFO: 500 epoch, global step=79500, train loss=5.915449
+2017-12-29 22:00:25 INFO: 600 epoch, global step=79600, train loss=5.884793
+2017-12-29 22:00:35 INFO: 700 epoch, global step=79700, train loss=5.968221
+2017-12-29 22:00:42 INFO: 800 epoch, global step=79800, train loss=5.996402
+2017-12-29 22:00:49 INFO: 900 epoch, global step=79900, train loss=5.930926
+2017-12-29 22:00:56 INFO: 1000 epoch, global step=80000, train loss=5.879917
+2017-12-29 22:01:00 INFO: HyEpoch 80, valid loss=5.917518
+2017-12-29 22:01:00 INFO: 胡雁哀鸣夜夜飞 不人不人不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 22:01:00 INFO: 新秋日后晒书天 不人不人不不人<eos> |Ref:白日当松影却圆
+2017-12-29 22:01:00 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 22:01:00 INFO: 朝朝奉御临池上 不人不人不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 22:01:08 INFO: BLEU=0.0006, GLEU=0.0031 |NMTSeq2seq_hs128_bs128_es128_kr0.50_mgn5.00_lr0.1000_is0.00_nl2_vs6000_bw1
+2017-12-29 22:01:15 INFO: 100 epoch, global step=80100, train loss=5.984633
+2017-12-29 22:01:21 INFO: 200 epoch, global step=80200, train loss=6.021140
+2017-12-29 22:01:29 INFO: 300 epoch, global step=80300, train loss=5.926748
+2017-12-29 22:01:37 INFO: 400 epoch, global step=80400, train loss=5.936341
+2017-12-29 22:01:44 INFO: 500 epoch, global step=80500, train loss=5.825508
+2017-12-29 22:01:54 INFO: 600 epoch, global step=80600, train loss=5.907386
+2017-12-29 22:02:00 INFO: 700 epoch, global step=80700, train loss=5.978609
+2017-12-29 22:02:07 INFO: 800 epoch, global step=80800, train loss=5.879762
+2017-12-29 22:02:13 INFO: 900 epoch, global step=80900, train loss=6.004508
+2017-12-29 22:02:20 INFO: 1000 epoch, global step=81000, train loss=5.935105
+2017-12-29 22:02:23 INFO: HyEpoch 81, valid loss=5.915446
+2017-12-29 22:02:31 INFO: 100 epoch, global step=81100, train loss=6.072564
+2017-12-29 22:02:37 INFO: 200 epoch, global step=81200, train loss=5.903689
+2017-12-29 22:02:46 INFO: 300 epoch, global step=81300, train loss=5.961967
+2017-12-29 22:02:52 INFO: 400 epoch, global step=81400, train loss=5.970179
+2017-12-29 22:02:59 INFO: 500 epoch, global step=81500, train loss=6.065079
+2017-12-29 22:03:04 INFO: 600 epoch, global step=81600, train loss=5.876462
+2017-12-29 22:03:10 INFO: 700 epoch, global step=81700, train loss=5.885119
+2017-12-29 22:03:18 INFO: 800 epoch, global step=81800, train loss=5.981011
+2017-12-29 22:03:26 INFO: 900 epoch, global step=81900, train loss=5.924911
+2017-12-29 22:03:32 INFO: 1000 epoch, global step=82000, train loss=5.893803
+2017-12-29 22:03:35 INFO: HyEpoch 82, valid loss=5.915772
+2017-12-29 22:03:42 INFO: 100 epoch, global step=82100, train loss=5.902921
+2017-12-29 22:03:49 INFO: 200 epoch, global step=82200, train loss=5.870394
+2017-12-29 22:03:55 INFO: 300 epoch, global step=82300, train loss=5.908080
+2017-12-29 22:04:03 INFO: 400 epoch, global step=82400, train loss=5.951845
+2017-12-29 22:04:09 INFO: 500 epoch, global step=82500, train loss=5.941452
+2017-12-29 22:04:16 INFO: 600 epoch, global step=82600, train loss=5.943247
+2017-12-29 22:04:23 INFO: 700 epoch, global step=82700, train loss=5.924350
+2017-12-29 22:04:29 INFO: 800 epoch, global step=82800, train loss=5.930902
+2017-12-29 22:04:35 INFO: 900 epoch, global step=82900, train loss=5.810583
+2017-12-29 22:04:42 INFO: 1000 epoch, global step=83000, train loss=5.966086
+2017-12-29 22:04:44 INFO: HyEpoch 83, valid loss=5.914408
+2017-12-29 22:04:50 INFO: 100 epoch, global step=83100, train loss=5.967175
+2017-12-29 22:04:56 INFO: 200 epoch, global step=83200, train loss=5.796329
+2017-12-29 22:05:08 INFO: 300 epoch, global step=83300, train loss=5.854613
+2017-12-29 22:05:14 INFO: 400 epoch, global step=83400, train loss=5.948207
+2017-12-29 22:05:26 INFO: 500 epoch, global step=83500, train loss=6.310394
+2017-12-29 22:05:35 INFO: 600 epoch, global step=83600, train loss=5.920455
+2017-12-29 22:05:43 INFO: 700 epoch, global step=83700, train loss=5.905102
+2017-12-29 22:05:55 INFO: 800 epoch, global step=83800, train loss=5.892452
+2017-12-29 22:06:03 INFO: 900 epoch, global step=83900, train loss=5.943818
+2017-12-29 22:06:10 INFO: 1000 epoch, global step=84000, train loss=5.942389
+2017-12-29 22:06:14 INFO: HyEpoch 84, valid loss=5.913395
+2017-12-29 22:06:20 INFO: 100 epoch, global step=84100, train loss=5.869767
+2017-12-29 22:06:30 INFO: 200 epoch, global step=84200, train loss=5.977952
+2017-12-29 22:06:37 INFO: 300 epoch, global step=84300, train loss=5.955328
+2017-12-29 22:06:45 INFO: 400 epoch, global step=84400, train loss=6.005215
+2017-12-29 22:06:53 INFO: 500 epoch, global step=84500, train loss=5.946652
+2017-12-29 22:07:00 INFO: 600 epoch, global step=84600, train loss=5.903583
+2017-12-29 22:07:06 INFO: 700 epoch, global step=84700, train loss=5.950001
+2017-12-29 22:07:14 INFO: 800 epoch, global step=84800, train loss=5.984355
+2017-12-29 22:07:20 INFO: 900 epoch, global step=84900, train loss=5.975415
+2017-12-29 22:07:29 INFO: 1000 epoch, global step=85000, train loss=5.910161
+2017-12-29 22:07:32 INFO: HyEpoch 85, valid loss=5.913325
+2017-12-29 22:07:32 INFO: 胡雁哀鸣夜夜飞 不人人人不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 22:07:32 INFO: 新秋日后晒书天 不人人人不不人<eos> |Ref:白日当松影却圆
+2017-12-29 22:07:32 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 22:07:32 INFO: 朝朝奉御临池上 不人人人不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 22:07:40 INFO: 100 epoch, global step=85100, train loss=5.916231
+2017-12-29 22:07:46 INFO: 200 epoch, global step=85200, train loss=5.800071
+2017-12-29 22:07:53 INFO: 300 epoch, global step=85300, train loss=5.956243
+2017-12-29 22:07:59 INFO: 400 epoch, global step=85400, train loss=5.937819
+2017-12-29 22:08:05 INFO: 500 epoch, global step=85500, train loss=5.934690
+2017-12-29 22:08:12 INFO: 600 epoch, global step=85600, train loss=5.982395
+2017-12-29 22:08:18 INFO: 700 epoch, global step=85700, train loss=6.028316
+2017-12-29 22:08:25 INFO: 800 epoch, global step=85800, train loss=5.884189
+2017-12-29 22:08:32 INFO: 900 epoch, global step=85900, train loss=5.894680
+2017-12-29 22:08:41 INFO: 1000 epoch, global step=86000, train loss=5.904333
+2017-12-29 22:08:45 INFO: HyEpoch 86, valid loss=5.916884
+2017-12-29 22:08:55 INFO: 100 epoch, global step=86100, train loss=5.848897
+2017-12-29 22:09:01 INFO: 200 epoch, global step=86200, train loss=5.927001
+2017-12-29 22:09:07 INFO: 300 epoch, global step=86300, train loss=5.957875
+2017-12-29 22:09:15 INFO: 400 epoch, global step=86400, train loss=5.895058
+2017-12-29 22:09:23 INFO: 500 epoch, global step=86500, train loss=5.833019
+2017-12-29 22:09:31 INFO: 600 epoch, global step=86600, train loss=5.817252
+2017-12-29 22:09:38 INFO: 700 epoch, global step=86700, train loss=6.001181
+2017-12-29 22:09:50 INFO: 800 epoch, global step=86800, train loss=5.910462
+2017-12-29 22:09:57 INFO: 900 epoch, global step=86900, train loss=5.910342
+2017-12-29 22:10:03 INFO: 1000 epoch, global step=87000, train loss=5.933665
+2017-12-29 22:10:06 INFO: HyEpoch 87, valid loss=5.912277
+2017-12-29 22:10:13 INFO: 100 epoch, global step=87100, train loss=5.897054
+2017-12-29 22:10:19 INFO: 200 epoch, global step=87200, train loss=5.911788
+2017-12-29 22:10:25 INFO: 300 epoch, global step=87300, train loss=6.022697
+2017-12-29 22:10:32 INFO: 400 epoch, global step=87400, train loss=5.879855
+2017-12-29 22:10:41 INFO: 500 epoch, global step=87500, train loss=5.934792
+2017-12-29 22:10:48 INFO: 600 epoch, global step=87600, train loss=5.896371
+2017-12-29 22:10:55 INFO: 700 epoch, global step=87700, train loss=5.942395
+2017-12-29 22:11:01 INFO: 800 epoch, global step=87800, train loss=5.954954
+2017-12-29 22:11:10 INFO: 900 epoch, global step=87900, train loss=5.857090
+2017-12-29 22:11:16 INFO: 1000 epoch, global step=88000, train loss=5.903417
+2017-12-29 22:11:19 INFO: HyEpoch 88, valid loss=5.913596
+2017-12-29 22:11:27 INFO: 100 epoch, global step=88100, train loss=5.911220
+2017-12-29 22:11:34 INFO: 200 epoch, global step=88200, train loss=5.969553
+2017-12-29 22:11:40 INFO: 300 epoch, global step=88300, train loss=5.847551
+2017-12-29 22:11:48 INFO: 400 epoch, global step=88400, train loss=6.015181
+2017-12-29 22:11:55 INFO: 500 epoch, global step=88500, train loss=5.900883
+2017-12-29 22:12:01 INFO: 600 epoch, global step=88600, train loss=5.914577
+2017-12-29 22:12:07 INFO: 700 epoch, global step=88700, train loss=5.947242
+2017-12-29 22:12:14 INFO: 800 epoch, global step=88800, train loss=5.914010
+2017-12-29 22:12:22 INFO: 900 epoch, global step=88900, train loss=5.945348
+2017-12-29 22:12:28 INFO: 1000 epoch, global step=89000, train loss=5.943948
+2017-12-29 22:12:31 INFO: HyEpoch 89, valid loss=5.911807
+2017-12-29 22:12:36 INFO: 100 epoch, global step=89100, train loss=5.966479
+2017-12-29 22:12:43 INFO: 200 epoch, global step=89200, train loss=5.890253
+2017-12-29 22:12:49 INFO: 300 epoch, global step=89300, train loss=6.021265
+2017-12-29 22:12:57 INFO: 400 epoch, global step=89400, train loss=5.950615
+2017-12-29 22:13:03 INFO: 500 epoch, global step=89500, train loss=5.926339
+2017-12-29 22:13:08 INFO: 600 epoch, global step=89600, train loss=5.893055
+2017-12-29 22:13:16 INFO: 700 epoch, global step=89700, train loss=5.897292
+2017-12-29 22:13:22 INFO: 800 epoch, global step=89800, train loss=5.863770
+2017-12-29 22:13:28 INFO: 900 epoch, global step=89900, train loss=5.929718
+2017-12-29 22:13:34 INFO: 1000 epoch, global step=90000, train loss=6.082472
+2017-12-29 22:13:37 INFO: HyEpoch 90, valid loss=5.915245
+2017-12-29 22:13:37 INFO: 胡雁哀鸣夜夜飞 不人无人不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 22:13:37 INFO: 新秋日后晒书天 不人无人不不人<eos> |Ref:白日当松影却圆
+2017-12-29 22:13:37 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 22:13:37 INFO: 朝朝奉御临池上 不人无人不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 22:13:45 INFO: 100 epoch, global step=90100, train loss=5.896417
+2017-12-29 22:13:51 INFO: 200 epoch, global step=90200, train loss=6.013586
+2017-12-29 22:13:59 INFO: 300 epoch, global step=90300, train loss=5.926270
+2017-12-29 22:14:05 INFO: 400 epoch, global step=90400, train loss=5.884290
+2017-12-29 22:14:11 INFO: 500 epoch, global step=90500, train loss=5.973335
+2017-12-29 22:14:18 INFO: 600 epoch, global step=90600, train loss=5.936306
+2017-12-29 22:14:24 INFO: 700 epoch, global step=90700, train loss=6.035938
+2017-12-29 22:14:34 INFO: 800 epoch, global step=90800, train loss=6.026560
+2017-12-29 22:14:42 INFO: 900 epoch, global step=90900, train loss=5.842508
+2017-12-29 22:14:48 INFO: 1000 epoch, global step=91000, train loss=5.949633
+2017-12-29 22:14:50 INFO: HyEpoch 91, valid loss=5.913195
+2017-12-29 22:14:56 INFO: 100 epoch, global step=91100, train loss=5.905248
+2017-12-29 22:15:02 INFO: 200 epoch, global step=91200, train loss=5.900575
+2017-12-29 22:15:11 INFO: 300 epoch, global step=91300, train loss=6.005171
+2017-12-29 22:15:19 INFO: 400 epoch, global step=91400, train loss=5.840604
+2017-12-29 22:15:25 INFO: 500 epoch, global step=91500, train loss=6.031736
+2017-12-29 22:15:32 INFO: 600 epoch, global step=91600, train loss=6.013865
+2017-12-29 22:15:39 INFO: 700 epoch, global step=91700, train loss=5.920650
+2017-12-29 22:15:48 INFO: 800 epoch, global step=91800, train loss=5.890420
+2017-12-29 22:15:57 INFO: 900 epoch, global step=91900, train loss=5.898674
+2017-12-29 22:16:04 INFO: 1000 epoch, global step=92000, train loss=5.954712
+2017-12-29 22:16:07 INFO: HyEpoch 92, valid loss=5.910561
+2017-12-29 22:16:15 INFO: 100 epoch, global step=92100, train loss=5.970642
+2017-12-29 22:16:20 INFO: 200 epoch, global step=92200, train loss=5.932327
+2017-12-29 22:16:27 INFO: 300 epoch, global step=92300, train loss=5.913109
+2017-12-29 22:16:36 INFO: 400 epoch, global step=92400, train loss=5.958016
+2017-12-29 22:16:45 INFO: 500 epoch, global step=92500, train loss=5.933860
+2017-12-29 22:16:54 INFO: 600 epoch, global step=92600, train loss=5.889236
+2017-12-29 22:17:03 INFO: 700 epoch, global step=92700, train loss=5.932256
+2017-12-29 22:17:09 INFO: 800 epoch, global step=92800, train loss=5.889312
+2017-12-29 22:17:15 INFO: 900 epoch, global step=92900, train loss=5.884999
+2017-12-29 22:17:22 INFO: 1000 epoch, global step=93000, train loss=5.956755
+2017-12-29 22:17:26 INFO: HyEpoch 93, valid loss=5.909933
+2017-12-29 22:17:32 INFO: 100 epoch, global step=93100, train loss=5.995056
+2017-12-29 22:17:38 INFO: 200 epoch, global step=93200, train loss=5.918360
+2017-12-29 22:17:44 INFO: 300 epoch, global step=93300, train loss=5.881065
+2017-12-29 22:17:50 INFO: 400 epoch, global step=93400, train loss=5.872952
+2017-12-29 22:18:00 INFO: 500 epoch, global step=93500, train loss=5.958045
+2017-12-29 22:18:08 INFO: 600 epoch, global step=93600, train loss=5.897494
+2017-12-29 22:18:14 INFO: 700 epoch, global step=93700, train loss=5.998346
+2017-12-29 22:18:23 INFO: 800 epoch, global step=93800, train loss=6.044398
+2017-12-29 22:18:29 INFO: 900 epoch, global step=93900, train loss=6.024807
+2017-12-29 22:18:35 INFO: 1000 epoch, global step=94000, train loss=5.924281
+2017-12-29 22:18:38 INFO: HyEpoch 94, valid loss=5.909828
+2017-12-29 22:18:43 INFO: 100 epoch, global step=94100, train loss=5.781921
+2017-12-29 22:18:50 INFO: 200 epoch, global step=94200, train loss=6.022434
+2017-12-29 22:18:55 INFO: 300 epoch, global step=94300, train loss=5.935591
+2017-12-29 22:19:02 INFO: 400 epoch, global step=94400, train loss=5.886027
+2017-12-29 22:19:08 INFO: 500 epoch, global step=94500, train loss=5.847953
+2017-12-29 22:19:14 INFO: 600 epoch, global step=94600, train loss=5.956874
+2017-12-29 22:19:21 INFO: 700 epoch, global step=94700, train loss=5.846155
+2017-12-29 22:19:27 INFO: 800 epoch, global step=94800, train loss=5.880857
+2017-12-29 22:19:33 INFO: 900 epoch, global step=94900, train loss=5.826496
+2017-12-29 22:19:40 INFO: 1000 epoch, global step=95000, train loss=5.910249
+2017-12-29 22:19:43 INFO: HyEpoch 95, valid loss=5.914444
+2017-12-29 22:19:43 INFO: 胡雁哀鸣夜夜飞 不人不人不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 22:19:43 INFO: 新秋日后晒书天 不人不人不不人<eos> |Ref:白日当松影却圆
+2017-12-29 22:19:43 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 22:19:43 INFO: 朝朝奉御临池上 不人不人不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 22:19:50 INFO: 100 epoch, global step=95100, train loss=6.049388
+2017-12-29 22:19:57 INFO: 200 epoch, global step=95200, train loss=5.970121
+2017-12-29 22:20:03 INFO: 300 epoch, global step=95300, train loss=5.901235
+2017-12-29 22:20:11 INFO: 400 epoch, global step=95400, train loss=6.001866
+2017-12-29 22:20:17 INFO: 500 epoch, global step=95500, train loss=5.892809
+2017-12-29 22:20:23 INFO: 600 epoch, global step=95600, train loss=5.920195
+2017-12-29 22:20:29 INFO: 700 epoch, global step=95700, train loss=5.873560
+2017-12-29 22:20:36 INFO: 800 epoch, global step=95800, train loss=5.979430
+2017-12-29 22:20:44 INFO: 900 epoch, global step=95900, train loss=5.924432
+2017-12-29 22:20:50 INFO: 1000 epoch, global step=96000, train loss=5.870589
+2017-12-29 22:20:53 INFO: HyEpoch 96, valid loss=5.907144
+2017-12-29 22:21:00 INFO: 100 epoch, global step=96100, train loss=5.909574
+2017-12-29 22:21:07 INFO: 200 epoch, global step=96200, train loss=5.911059
+2017-12-29 22:21:14 INFO: 300 epoch, global step=96300, train loss=5.813114
+2017-12-29 22:21:24 INFO: 400 epoch, global step=96400, train loss=5.904294
+2017-12-29 22:21:33 INFO: 500 epoch, global step=96500, train loss=5.886241
+2017-12-29 22:21:40 INFO: 600 epoch, global step=96600, train loss=5.866317
+2017-12-29 22:21:47 INFO: 700 epoch, global step=96700, train loss=5.898657
+2017-12-29 22:21:53 INFO: 800 epoch, global step=96800, train loss=5.887730
+2017-12-29 22:22:00 INFO: 900 epoch, global step=96900, train loss=5.918900
+2017-12-29 22:22:09 INFO: 1000 epoch, global step=97000, train loss=5.841157
+2017-12-29 22:22:11 INFO: HyEpoch 97, valid loss=5.911408
+2017-12-29 22:22:18 INFO: 100 epoch, global step=97100, train loss=5.891865
+2017-12-29 22:22:26 INFO: 200 epoch, global step=97200, train loss=5.877672
+2017-12-29 22:22:33 INFO: 300 epoch, global step=97300, train loss=5.969011
+2017-12-29 22:22:43 INFO: 400 epoch, global step=97400, train loss=5.965502
+2017-12-29 22:22:52 INFO: 500 epoch, global step=97500, train loss=5.845186
+2017-12-29 22:22:58 INFO: 600 epoch, global step=97600, train loss=5.897727
+2017-12-29 22:23:08 INFO: 700 epoch, global step=97700, train loss=5.983656
+2017-12-29 22:23:16 INFO: 800 epoch, global step=97800, train loss=6.016605
+2017-12-29 22:23:25 INFO: 900 epoch, global step=97900, train loss=5.973513
+2017-12-29 22:23:32 INFO: 1000 epoch, global step=98000, train loss=5.938561
+2017-12-29 22:23:35 INFO: HyEpoch 98, valid loss=5.906723
+2017-12-29 22:23:41 INFO: 100 epoch, global step=98100, train loss=5.883794
+2017-12-29 22:23:47 INFO: 200 epoch, global step=98200, train loss=5.861630
+2017-12-29 22:23:55 INFO: 300 epoch, global step=98300, train loss=5.923652
+2017-12-29 22:24:01 INFO: 400 epoch, global step=98400, train loss=5.964959
+2017-12-29 22:24:08 INFO: 500 epoch, global step=98500, train loss=5.886892
+2017-12-29 22:24:16 INFO: 600 epoch, global step=98600, train loss=5.861988
+2017-12-29 22:24:23 INFO: 700 epoch, global step=98700, train loss=5.912504
+2017-12-29 22:24:29 INFO: 800 epoch, global step=98800, train loss=5.856579
+2017-12-29 22:24:35 INFO: 900 epoch, global step=98900, train loss=6.029634
+2017-12-29 22:24:41 INFO: 1000 epoch, global step=99000, train loss=5.847371
+2017-12-29 22:24:44 INFO: HyEpoch 99, valid loss=5.907955
+2017-12-29 22:24:51 INFO: 100 epoch, global step=99100, train loss=5.917496
+2017-12-29 22:24:57 INFO: 200 epoch, global step=99200, train loss=5.912871
+2017-12-29 22:25:03 INFO: 300 epoch, global step=99300, train loss=5.936043
+2017-12-29 22:25:12 INFO: 400 epoch, global step=99400, train loss=5.912854
+2017-12-29 22:25:19 INFO: 500 epoch, global step=99500, train loss=5.932538
+2017-12-29 22:25:27 INFO: 600 epoch, global step=99600, train loss=5.874559
+2017-12-29 22:25:33 INFO: 700 epoch, global step=99700, train loss=5.887991
+2017-12-29 22:25:40 INFO: 800 epoch, global step=99800, train loss=5.914838
+2017-12-29 22:25:48 INFO: 900 epoch, global step=99900, train loss=5.878097
+2017-12-29 22:25:55 INFO: 1000 epoch, global step=100000, train loss=5.893058
+2017-12-29 22:25:58 INFO: HyEpoch 100, valid loss=5.913642
+2017-12-29 22:25:58 INFO: 胡雁哀鸣夜夜飞 不人无人不不人<eos> |Ref:胡儿眼泪双双落
+2017-12-29 22:25:58 INFO: 新秋日后晒书天 不人无人不不人<eos> |Ref:白日当松影却圆
+2017-12-29 22:25:58 INFO: 佳人忆山水 不人不不人<eos> |Ref:置酒在高台
+2017-12-29 22:25:58 INFO: 朝朝奉御临池上 不人无人不不人<eos> |Ref:不羡青松拜大夫
+2017-12-29 22:26:08 INFO: BLEU=0.0009, GLEU=0.0035 |NMTSeq2seq_hs128_bs128_es128_kr0.50_mgn5.00_lr0.1000_is0.00_nl2_vs6000_bw1
+2017-12-29 22:26:08 INFO: Learning Rate=0.025000
+2017-12-29 22:26:15 INFO: 100 epoch, global step=100100, train loss=5.906827
+2017-12-29 22:26:22 INFO: 200 epoch, global step=100200, train loss=5.993400
+2017-12-29 22:26:29 INFO: 300 epoch, global step=100300, train loss=5.966371
+2017-12-29 22:26:35 INFO: 400 epoch, global step=100400, train loss=5.872567
+2017-12-29 22:26:43 INFO: 500 epoch, global step=100500, train loss=5.871183
+2017-12-29 22:26:49 INFO: 600 epoch, global step=100600, train loss=6.007843
+2017-12-29 22:26:57 INFO: 700 epoch, global step=100700, train loss=5.940230
+2017-12-29 22:27:06 INFO: 800 epoch, global step=100800, train loss=5.910850
+2017-12-29 22:27:12 INFO: 900 epoch, global step=100900, train loss=6.054185

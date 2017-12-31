@@ -1,0 +1,6 @@
+poem number=41880, character number(V, 去重)=7471, character number(N, 未去重)=2495760
+all pair number=213373, character number(V, 去重)=7348, character number(N, 未去重)=2390852
+train pair number=172831, character number(V, 去重)=7142, character number(N, 未去重)=1936502
+validation pair number=19204, character number(V, 去重)=5029, character number(N, 未去重)=215162
+test pair number=21338, character number(V, 去重)=5103, character number(N, 未去重)=239188
+lm sentence number=396995, character number(V, 去重)=7314, character number(N, 未去重)=2222965

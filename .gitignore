@@ -1,0 +1,8 @@
+.idea
+*.pyc
+paper
+NMTModel
+exclude.txt
+rsyncFromServer.sh
+rsyncToServer.sh
+serverExclude.txt
